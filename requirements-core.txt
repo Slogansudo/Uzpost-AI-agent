@@ -1,0 +1,42 @@
+# === UzPost AI — to'g'ridan-to'g'ri (direct) bog'liqliklar ===
+# Bu fayl 'pip freeze' dump emas — faqat kod IMPORT qiladigan paketlar.
+# Transitive (ichki) bog'liqliklarni pip o'zi hal qiladi.
+# Eslatma: torch+transformers BGE-M3 (FlagEmbedding) uchun MAJBURIY.
+
+# --- Web / API ---
+fastapi==0.136.1
+uvicorn==0.46.0
+pydantic==2.12.5
+pydantic-settings==2.13.1
+slowapi==0.1.9
+python-dotenv==1.2.2
+aiohttp==3.13.3
+requests==2.32.5
+
+# --- DB ---
+asyncpg==0.31.0
+SQLAlchemy==2.0.48
+psycopg2==2.9.12
+
+# --- LLM (Groq orqali) ---
+langchain==1.2.15
+langchain-core==1.3.2
+langchain-groq==1.1.2
+groq==0.37.1
+tenacity==8.5.0
+
+# --- RAG / Embeddings (BGE-M3) ---
+FlagEmbedding>=1.2.0   # BGE-M3 modeli (torch+transformers'ni tortadi)
+torch==2.10.0
+transformers==4.53.3
+sentence-transformers==5.2.3
+sentencepiece==0.2.1
+tokenizers==0.21.4
+safetensors==0.7.0
+numpy==1.26.4
+scipy==1.15.3
+rank-bm25==0.2.2
+qdrant-client==1.17.0
+
+# --- Til aniqlash ---
+lingua-language-detector==2.1.1

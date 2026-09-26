@@ -1,0 +1,1762 @@
+[
+  {
+    "id": 1,
+    "category": "customs",
+    "question_uz": "Xitoydan buyurtma qildim, trackingda tamojnida ko'rsatmoqda, necha kunda o'tadi?",
+    "question_ru": "Заказал из Китая, в трекинге показывает таможню, сколько дней ждать?",
+    "question_en": "I ordered from China, tracking shows customs, how many days will it take?",
+    "answer_uz": "Xitoydan kelayotgan jo'natmalar O'zbekiston bojxonasidan o'tishi kerak. Bu odatda 1-5 kun davom etadi, ba'zan 7 kungacha cho'zilishi mumkin. Bojxona tekshiruvi standart jarayon — jo'natmangiz 200 USD va 31 kg limitidan oshmagan bo'lsa muammo bo'lmaydi. Tekshiruv tugagach status o'zgaradi va bo'limga jo'natiladi.",
+    "answer_ru": "Посылки из Китая проходят таможню Узбекистана — обычно 1-5 дней, иногда до 7. Это стандартная процедура. Если стоимость до $200 и вес до 31 кг — проблем не будет. После проверки статус изменится.",
+    "answer_en": "Parcels from China must pass Uzbekistan customs — usually 1-5 days, sometimes up to 7. Standard procedure. If value is under $200 and weight under 31 kg, no issues. Status will update after inspection."
+  },
+  {
+    "id": 2,
+    "category": "customs",
+    "question_uz": "Tamojnida muammo bo'lsa nima bo'ladi?",
+    "question_ru": "Что будет если на таможне возникнут проблемы?",
+    "question_en": "What happens if there are customs issues?",
+    "answer_uz": "Agar jo'natma 200 USD yoki 31 kg limitidan oshsa yoki taqiqlangan tovar bo'lsa, uchta variant bor: 1) Bojxona to'lovi to'lash (qo'shimcha soliq), 2) Jo'natmani qaytarish jo'natuvchiga, 3) Texnik tekshiruv uchun qo'shimcha hujjat so'rash. 1165 ga qo'ng'iroq qiling — operatorlar yordam beradi.",
+    "answer_ru": "Если посылка превышает $200 или 31 кг, или содержит запрещённые товары: 1) Оплата таможенной пошлины, 2) Возврат отправителю, 3) Запрос дополнительных документов. Позвоните 1165.",
+    "answer_en": "If the parcel exceeds $200 or 31 kg, or contains restricted items: 1) Pay customs duty, 2) Return to sender, 3) Request additional documents. Call 1165 for help."
+  },
+  {
+    "id": 3,
+    "category": "customs",
+    "question_uz": "Oyiga necha marta bojxonasiz tovar olish mumkin?",
+    "question_ru": "Сколько раз в месяц можно получать товары без пошлины?",
+    "question_en": "How many times per month can I receive goods without customs duty?",
+    "answer_uz": "O'zbekistonda oyiga 1 marta 200 USD gacha va 31 kg gacha bo'lgan xalqaro jo'natmani bojxona to'lovisiz qabul qilish mumkin. Ikkinchi jo'natmadan 30% bojxona to'lovi undiriladi.",
+    "answer_ru": "В Узбекистане 1 раз в месяц можно получить международную посылку без пошлины — до $200 и до 31 кг. Со второй посылки взимается 30% таможенная пошлина.",
+    "answer_en": "In Uzbekistan, you can receive one international parcel per month duty-free — up to $200 and 31 kg. A 30% customs duty applies from the second parcel."
+  },
+  {
+    "id": 4,
+    "category": "customs",
+    "question_uz": "Turkiyadan kiyim buyurtma qildim, tamojnida to'xtatildi, nima qilish kerak?",
+    "question_ru": "Заказал одежду из Турции, остановили на таможне, что делать?",
+    "question_en": "Ordered clothes from Turkey, stopped at customs, what should I do?",
+    "answer_uz": "Turkiyadan kiyim — odatda muammo bo'lmaydi. Tekshiruv 3-7 kun. Agar to'lov talab qilinsa, siz emas — jo'natuvchi ham to'g'ri hujjat bermagan bo'lishi mumkin. 1165 ga qo'ng'iroq qilib holatni aniqlashtiring, ular sizga to'liq ma'lumot beradi.",
+    "answer_ru": "Одежда из Турции — обычно без проблем. Проверка 3-7 дней. Если требуют оплату — возможно, отправитель неверно оформил документы. Звоните 1165 для уточнения.",
+    "answer_en": "Clothes from Turkey — usually no problems. Inspection 3-7 days. If payment required, the sender may have misfiled documents. Call 1165 to clarify."
+  },
+  {
+    "id": 5,
+    "category": "customs",
+    "question_uz": "Vitaminar va biologik qo'shimchalar yuborish mumkinmi?",
+    "question_ru": "Можно ли получать витамины и БАДы через почту?",
+    "question_en": "Can I receive vitamins and supplements through the post?",
+    "answer_uz": "Vitaminlar va BAD (biologik faol qo'shimchalar)lar — retsept talab qilinishi mumkin. Bojxona tekshiruvi paytida hujjat so'ralishi mumkin. 6 oylik iste'mol miqdoridan oshmasa odatda o'tkaziladi. Nomlari aniq ko'rsatilgan bo'lishi kerak.",
+    "answer_ru": "Витамины и БАДы — могут потребоваться документы. На таможне могут запросить рецепт. Обычно пропускают, если не превышает 6-месячный запас. Название должно быть чётко указано.",
+    "answer_en": "Vitamins and supplements may require documentation. Customs may request a prescription. Usually passed if within a 6-month supply. Name must be clearly labeled."
+  },
+  {
+    "id": 6,
+    "category": "delay",
+    "question_uz": "Jo'natmam 4 kun bo'ldi hali kelmadi, nega?",
+    "question_ru": "Посылке уже 4 дня, всё ещё не пришла, почему?",
+    "question_en": "My parcel has been 4 days and still hasn't arrived, why?",
+    "answer_uz": "4 kun — ichki jo'natmalar uchun biroz ko'proq. Kechikish sabablari: bayram yoki dam olish kunlari, yuqori hajmdagi yuklar, uzoq yo'nalish (Surxondaryo, Xorazm, QQR — 5-7 kun normal). Trek raqamingizni yuborsangiz, aniq joylashuvini ko'rsataman.",
+    "answer_ru": "4 дня — немного больше для внутренних отправлений. Причины: праздники, высокий объём, удалённый регион (Сурхандарья, Хорезм, ККР — 5-7 дней нормально). Пришлите трек-номер.",
+    "answer_en": "4 days is a bit long for domestic. Reasons: holidays, high volume, remote area (Surkhandarya, Khorezm, KKR — 5-7 days normal). Send your tracking number."
+  },
+  {
+    "id": 7,
+    "category": "delay",
+    "question_uz": "Bir hafta bo'ldi posylka kelmadi, nega bu qadar kech?",
+    "question_ru": "Прошла неделя, посылка не пришла, почему так долго?",
+    "question_en": "A week has passed, parcel hasn't arrived, why is it so late?",
+    "answer_uz": "Bir hafta — ichki jo'natmalar uchun kechikish sanalishi mumkin. Trek raqamini tekshiring: agar hozir 'Tranzit bo'limida' ko'rinsa — yo'lda. 'Bojxonada' bo'lsa — 1-7 kun kutish kerak. Hali ham kelmasa 1165 ga murojaat qiling.",
+    "answer_ru": "Неделя для внутренних отправлений — задержка. Проверьте трек: 'В транзите' — в пути, 'На таможне' — ждите 1-7 дней. Всё ещё нет — 1165.",
+    "answer_en": "A week is a delay for domestic. Check tracking: 'In transit' — on the way, 'At customs' — wait 1-7 days. Still not arrived — call 1165."
+  },
+  {
+    "id": 8,
+    "category": "delay",
+    "question_uz": "Yangi yil bayramida jo'natma kech keladi deb kutishim kerakmi?",
+    "question_ru": "Стоит ли ждать задержки из-за новогодних праздников?",
+    "question_en": "Should I expect delays during New Year holidays?",
+    "answer_uz": "Ha, Yangi yil bayramlarida (31 dekabr — 2 yanvar) jo'natmalar 2-4 kun kechikishi mumkin. Bu davrda yuklar hajmi keskin oshadi. Kechikish kutilsa — avvalroq jo'natish tavsiya etiladi.",
+    "answer_ru": "Да, в новогодние праздники (31 дек — 2 янв) задержки 2-4 дня из-за высокого объёма. Рекомендуется отправлять заранее.",
+    "answer_en": "Yes, New Year holidays (Dec 31 – Jan 2) cause 2-4 day delays due to high volume. It's recommended to send in advance."
+  },
+  {
+    "id": 9,
+    "category": "delay",
+    "question_uz": "Surxondaryoga jo'natmam necha kunda yetib boradi?",
+    "question_ru": "Сколько дней идёт посылка до Сурхандарьи?",
+    "question_en": "How many days does a parcel take to reach Surkhandarya?",
+    "answer_uz": "Surxondaryo — O'zbekistonning eng uzoq viloyatlaridan biri. Bir Qadam xizmati orqali 3-5 kun, standart posilka 5-7 kun. Tog'li hududlar (Sherobod, Uzun) biroz ko'proq vaqt olishi mumkin.",
+    "answer_ru": "Сурхандарья — один из самых дальних регионов. Bir Qadam — 3-5 дней, стандартная посылка — 5-7 дней. Горные районы (Шерабад, Узун) могут дольше.",
+    "answer_en": "Surkhandarya is one of the farthest regions. Bir Qadam — 3-5 days, standard parcel — 5-7 days. Mountain areas may take longer."
+  },
+  {
+    "id": 10,
+    "category": "delay",
+    "question_uz": "Rossiyadan jo'natma necha kunda keladi?",
+    "question_ru": "Сколько идёт посылка из России?",
+    "question_en": "How long does a parcel from Russia take?",
+    "answer_uz": "Rossiyadan O'zbekistonga jo'natmalar odatda 10-20 kun davom etadi. Moskva, Sankt-Peterburg — 10-14 kun. Uzoqroq shaharlardan 15-20 kun. Bojxona tekshiruvi bu muddatga 3-7 kun qo'shishi mumkin.",
+    "answer_ru": "Из России до Узбекистана обычно 10-20 дней. Москва, Санкт-Петербург — 10-14 дней. Из дальних городов — 15-20 дней. Таможня может добавить 3-7 дней.",
+    "answer_en": "From Russia to Uzbekistan usually 10-20 days. Moscow, St. Petersburg — 10-14 days. Farther cities — 15-20 days. Customs may add 3-7 days."
+  },
+  {
+    "id": 11,
+    "category": "delay",
+    "question_uz": "Navro'z bayramida pochta ishlaydi?",
+    "question_ru": "Работает ли почта в Навруз?",
+    "question_en": "Does the post office work during Navruz?",
+    "answer_uz": "Navro'z (21 mart) — rasmiy bayram. Ko'pchilik bo'limlar yopiladi yoki qisqartirilgan ish vaqtida ishlaydi. Jo'natmalar 1-2 kun kechikishi mumkin. Aniq ma'lumot uchun yaqin bo'limingizni 1165 orqali tekshiring.",
+    "answer_ru": "Навруз (21 марта) — официальный праздник. Большинство отделений закрыты или работают сокращённо. Задержки 1-2 дня. Уточните через 1165.",
+    "answer_en": "Navruz (March 21) is a public holiday. Most branches are closed or have reduced hours. Delays of 1-2 days possible. Check via 1165."
+  },
+  {
+    "id": 12,
+    "category": "delay",
+    "question_uz": "Jo'natmam tranzitda ko'p kunda bo'lyapti, bu normalmı?",
+    "question_ru": "Посылка долго в транзите, это нормально?",
+    "question_en": "My parcel has been in transit for many days, is that normal?",
+    "answer_uz": "Tranzit muddati yo'nalishga bog'liq. Toshkentdan: viloyatlarga — 1-3 kun; chegara hududlariga — 3-5 kun. Xalqaro: 7-30 kun. Agar tracking yangilanmasa 5+ kun — 1165 ga murojaat qiling.",
+    "answer_ru": "Транзит зависит от маршрута. Из Ташкента: регионы — 1-3 дня; приграничные — 3-5 дней. Международные: 7-30 дней. Если статус не обновлялся 5+ дней — 1165.",
+    "answer_en": "Transit time depends on route. From Tashkent: regions — 1-3 days; border areas — 3-5 days. International: 7-30 days. If no update 5+ days — call 1165."
+  },
+  {
+    "id": 13,
+    "category": "no_sms",
+    "question_uz": "Jo'natmam bo'limga yetdi deyishdi lekin SMS kelmadi, nima bo'ldi?",
+    "question_ru": "Говорят посылка пришла в отделение, но SMS не пришло, что случилось?",
+    "question_en": "They say the parcel arrived at the branch but no SMS, what happened?",
+    "answer_uz": "SMS texnik nosozlik yoki operator bloklashi sababli kelmagan bo'lishi mumkin. Bu holda tracking saytida tekshirishingiz yoki bo'limga bevosita borishingiz mumkin. Raqamingiz to'g'ri kiritilganligini ham tekshiring.",
+    "answer_ru": "SMS мог не прийти из-за технического сбоя или блокировки оператора. Проверьте трекинг онлайн или зайдите в отделение. Проверьте правильность номера.",
+    "answer_en": "SMS may not arrive due to technical issues or operator blocking. Check tracking online or visit the branch directly. Also verify your phone number is correct."
+  },
+  {
+    "id": 14,
+    "category": "no_sms",
+    "question_uz": "SMS qachon keladi?",
+    "question_ru": "Когда придёт SMS?",
+    "question_en": "When will the SMS arrive?",
+    "answer_uz": "SMS faqat jo'natmangiz pochta bo'limiga yetib kelganda yuboriladi. Tranzitda, tamojnida yoki sortировka markazida bo'lganda SMS kelmaydi. Bu normal holat — hozircha trek raqam orqali kuzating.",
+    "answer_ru": "SMS приходит ТОЛЬКО при поступлении в отделение. В транзите, на таможне, в сортировочном центре — SMS не отправляется. Пока следите по трек-номеру.",
+    "answer_en": "SMS arrives ONLY when parcel reaches the branch. During transit, customs, or sorting center — no SMS. Track via tracking number meanwhile."
+  },
+  {
+    "id": 15,
+    "category": "no_sms",
+    "question_uz": "SMS raqamni qanday o'zgartirish mumkin?",
+    "question_ru": "Как изменить номер для SMS-уведомлений?",
+    "question_en": "How do I change my SMS notification number?",
+    "answer_uz": "SMS raqamni o'zgartirish uchun jo'natuvchiga murojaat qiling — ular aloqa ma'lumotlarini o'zgartirishi kerak. Agar siz oluvchi bo'lsangiz va raqam noto'g'ri kiritilgan bo'lsa — 1165 ga qo'ng'iroq qilib holatingizni tushuntiring.",
+    "answer_ru": "Для изменения номера SMS обратитесь к отправителю — они должны обновить контактные данные. Если вы получатель и номер введён неверно — позвоните 1165.",
+    "answer_en": "To change the SMS number, contact the sender — they need to update contact details. If you're the recipient and the number is wrong — call 1165."
+  },
+  {
+    "id": 16,
+    "category": "no_sms",
+    "question_uz": "Bildirishnoma olmoqchiman, qanday sozlash kerak?",
+    "question_ru": "Хочу получать уведомления, как настроить?",
+    "question_en": "I want to receive notifications, how do I set it up?",
+    "answer_uz": "UzPost xabarnomalari uchun: 1) https://uz.post saytida shaxsiy kabinetga kiring, 2) Tel raqamingizni to'g'ri kiriting, 3) Jo'natmangiz bo'limga yetganda avtomatik SMS keladi. Telegram orqali ham kuzatish mumkin: @uzpostbot",
+    "answer_ru": "Для уведомлений UzPost: 1) Войдите в личный кабинет на https://uz.post, 2) Укажите правильный номер телефона, 3) SMS придёт автоматически при поступлении. Также: @uzpostbot в Telegram.",
+    "answer_en": "For UzPost notifications: 1) Log into your account at https://uz.post, 2) Enter correct phone number, 3) Auto SMS when parcel arrives at branch. Also: @uzpostbot on Telegram."
+  },
+  {
+    "id": 17,
+    "category": "pickup",
+    "question_uz": "Boshqa kishi mening nomimga jo'natmani olib ketishi mumkinmi?",
+    "question_ru": "Может ли другой человек получить посылку вместо меня?",
+    "question_en": "Can another person pick up my parcel instead of me?",
+    "answer_uz": "Ha, mumkin! Faqat shaxsini tasdiqlovchi hujjat (pasport yoki ID karta) ko'rsatish kerak. Maxsus ishonchnoma kerak emas. Vakilingiz bo'limga borib jo'natma raqamini yoki sizning ismingizni aytsa yetarli.",
+    "answer_ru": "Да, можно! Достаточно паспорта или ID-карты. Доверенность не нужна. Ваш представитель называет номер отправления или ваше имя.",
+    "answer_en": "Yes, possible! Just needs a passport or ID card. No power of attorney required. Your representative shows the tracking number or your name."
+  },
+  {
+    "id": 18,
+    "category": "pickup",
+    "question_uz": "Jo'natmani necha kungacha saqlashadi?",
+    "question_ru": "Сколько дней хранят посылку в отделении?",
+    "question_en": "How many days is a parcel stored at the branch?",
+    "answer_uz": "Jo'natmalar pochta bo'limida 30 kun saqlanadi. 30 kundan keyin qaytariladi yoki saqlash to'lovi olinadi. Xabarnoma olgach iloji boricha tezroq borishingiz tavsiya etiladi.",
+    "answer_ru": "Посылки хранятся 30 дней. После 30 дней — возврат или платное хранение. Рекомендуется забрать как можно скорее после уведомления.",
+    "answer_en": "Parcels are stored for 30 days. After 30 days — returned or paid storage. Recommended to pick up as soon as possible after notification."
+  },
+  {
+    "id": 19,
+    "category": "pickup",
+    "question_uz": "Jo'natmani olish uchun qanday hujjat kerak?",
+    "question_ru": "Какие документы нужны для получения посылки?",
+    "question_en": "What documents do I need to pick up a parcel?",
+    "answer_uz": "Jo'natmani olish uchun: 1) Pasport yoki ID karta (shaxsni tasdiqlovchi hujjat), 2) Trek raqam yoki yutib yuborilgan SMS. Ba'zi hollarda jo'natma uchun pul to'lash kerak bo'lishi mumkin (agar to'lov qabul qilishda deb belgilangan bo'lsa).",
+    "answer_ru": "Для получения: 1) Паспорт или ID-карта, 2) Трек-номер или SMS-уведомление. В некоторых случаях нужно оплатить (если выбрана оплата при получении).",
+    "answer_en": "To pick up: 1) Passport or ID card, 2) Tracking number or SMS notification. Payment may be required if cash-on-delivery was chosen."
+  },
+  {
+    "id": 20,
+    "category": "pickup",
+    "question_uz": "Bo'lim qaysi soatlarda ishlaydi?",
+    "question_ru": "В какое время работает отделение?",
+    "question_en": "What are the branch working hours?",
+    "answer_uz": "Aksariyat UzPost bo'limlari: Dushanba–Juma: 9:00–18:00, Shanba: 9:00–13:00, Yakshanba: yopiq. Markaziy va yirik bo'limlar: 9:00–20:00 gacha ishlashi mumkin. Aniq vaqtni bilish uchun 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Большинство отделений: Пн–Пт: 9:00–18:00, Сб: 9:00–13:00, Вс: закрыто. Центральные и крупные: до 20:00. Для точного времени — 1165.",
+    "answer_en": "Most branches: Mon–Fri: 9:00–18:00, Sat: 9:00–13:00, Sun: closed. Central and large branches may work until 20:00. For exact hours — call 1165."
+  },
+  {
+    "id": 21,
+    "category": "pickup",
+    "question_uz": "Jo'natmam bo'limda 1 oydan ko'p turdi, nima bo'ladi?",
+    "question_ru": "Посылка в отделении больше месяца, что будет?",
+    "question_en": "My parcel has been at the branch for over a month, what happens?",
+    "answer_uz": "30 kundan keyin jo'natma qaytarilish jarayoni boshlanadi. Jo'natuvchiga qaytarilishi yoki yo'q qilinishi mumkin. Imkon qadar tezroq 1165 ga qo'ng'iroq qilib holatni aniqlashtiring — ba'zan qo'shimcha muddat berilishi mumkin.",
+    "answer_ru": "После 30 дней начинается процесс возврата. Может быть возвращена отправителю или утилизирована. Срочно позвоните 1165 — иногда дают дополнительное время.",
+    "answer_en": "After 30 days, return process begins. May be returned to sender or disposed. Call 1165 urgently — additional time may sometimes be granted."
+  },
+  {
+    "id": 22,
+    "category": "lost",
+    "question_uz": "Trek raqamim tizimda topilmayapti, jo'natmam yo'qolganmi?",
+    "question_ru": "Трек-номер не находится в системе, посылка потерялась?",
+    "question_en": "Tracking number not found in the system, is my parcel lost?",
+    "answer_uz": "Trek raqam tizimda topilmasa bir necha sabab bo'lishi mumkin: 1) Jo'natilmagan yoki hali skanlanmagan (24-48 soat kuting), 2) Trek raqam noto'g'ri kiritilgan, 3) Xalqaro raqam — boshqa tizimda bo'lishi mumkin. 1-2 kun kutib qayta tekshiring. Javob yo'q bo'lsa — 1165.",
+    "answer_ru": "Если трек не найден: 1) Не отправлено или ещё не отсканировано (подождите 24-48 часов), 2) Номер введён неверно, 3) Международный — может быть в другой системе. Повторите через 1-2 дня. Нет ответа — 1165.",
+    "answer_en": "If tracking not found: 1) Not sent or not yet scanned (wait 24-48 hours), 2) Number entered incorrectly, 3) International — may be in another system. Try again in 1-2 days. No answer — 1165."
+  },
+  {
+    "id": 23,
+    "category": "lost",
+    "question_uz": "Jo'natma rasmiy yo'qolgan deb topilsa nima qilish kerak?",
+    "question_ru": "Что делать если посылка официально признана утерянной?",
+    "question_en": "What to do if the parcel is officially declared lost?",
+    "answer_uz": "Rasmiy yo'qolish holati uchun: 1) info@pochta.uz ga yozing, 2) Jo'natma raqami, sana, qiymati, jo'natuvchi ma'lumotlarini yuboring, 3) Agar sug'urtalangan bo'lsa — kompensatsiya talab qiling. 1165 — rasmiy shikoyat qabul qilish uchun.",
+    "answer_ru": "При официальной утере: 1) Напишите на info@pochta.uz, 2) Укажите номер, дату, стоимость, данные отправителя, 3) Если застрахована — требуйте компенсацию. 1165 — для официальной жалобы.",
+    "answer_en": "For official loss: 1) Email info@pochta.uz, 2) Include tracking number, date, value, sender details, 3) If insured — claim compensation. 1165 — for official complaint."
+  },
+  {
+    "id": 24,
+    "category": "lost",
+    "question_uz": "Jo'natma 2 hafta bo'ldi, tracking yangilanmayapti, nima qilish kerak?",
+    "question_ru": "2 недели посылке, трекинг не обновляется, что делать?",
+    "question_en": "Parcel has been 2 weeks, tracking not updating, what to do?",
+    "answer_uz": "Tracking 2 hafta yangilanmasa jiddiy muammo bo'lishi mumkin. Qadamlar: 1) 1165 ga qo'ng'iroq qiling, 2) Trek raqamingizni ayting, 3) Ular ichki tizimda tekshiradilar. Xalqaro jo'natma bo'lsa — jo'natuvchi mamlakat pochtasiga ham murojaat qiling.",
+    "answer_ru": "Если трекинг не обновлялся 2 недели — возможна серьёзная проблема. Шаги: 1) Позвоните 1165, 2) Сообщите трек-номер, 3) Они проверят в внутренней системе. Международная — обратитесь также к почте страны отправителя.",
+    "answer_en": "Tracking not updated for 2 weeks — serious issue possible. Steps: 1) Call 1165, 2) Provide tracking number, 3) They'll check the internal system. International — also contact the sender country's postal service."
+  },
+  {
+    "id": 25,
+    "category": "eta",
+    "question_uz": "Bir Qadam xizmati orqali Toshkentga qachon yetadi?",
+    "question_ru": "Когда дойдёт через Bir Qadam в Ташкент?",
+    "question_en": "When will it arrive via Bir Qadam to Tashkent?",
+    "answer_uz": "Bir Qadam xizmati Toshkent ichi uchun: odatda 24 soat (1 ish kuni). Toshkentdan viloyat markazlariga: 2-3 kun. Bu xizmat kuzatiluvchi va kafolatlangan.",
+    "answer_ru": "Bir Qadam по Ташкенту: обычно 24 часа (1 рабочий день). Из Ташкента в региональные центры: 2-3 дня.",
+    "answer_en": "Bir Qadam within Tashkent: usually 24 hours (1 business day). From Tashkent to regional centers: 2-3 days."
+  },
+  {
+    "id": 26,
+    "category": "eta",
+    "question_uz": "Xitoydan buyurtma qilgan kiyimim qachon keladi taxminan?",
+    "question_ru": "Примерно когда придёт одежда, заказанная из Китая?",
+    "question_en": "Approximately when will clothes ordered from China arrive?",
+    "answer_uz": "Xitoydan O'zbekistonga: 15-30 kun. Tez xizmatlar (DHL, FedEx) — 7-14 kun ammo qimmatroq. Bojxona tekshiruvi bu muddatga 3-7 kun qo'shishi mumkin. Trek raqamingiz bo'lsa aniqroq ayta olaman.",
+    "answer_ru": "Из Китая в Узбекистан: 15-30 дней. Экспресс (DHL, FedEx) — 7-14 дней, но дороже. Таможня добавит 3-7 дней. Дайте трек-номер — скажу точнее.",
+    "answer_en": "China to Uzbekistan: 15-30 days. Express (DHL, FedEx) — 7-14 days but pricier. Customs adds 3-7 days. Give me tracking number for more precise estimate."
+  },
+  {
+    "id": 27,
+    "category": "eta",
+    "question_uz": "EMS xizmati orqali qachon yetkaziladi?",
+    "question_ru": "Когда доставят через EMS?",
+    "question_en": "When will EMS deliver?",
+    "answer_uz": "EMS — tez va kuzatiluvchi xalqaro xizmat. Ichki (O'zbekiston): 1-3 kun. Qo'shni mamlakatlar (Rossiya, Qozog'iston): 5-10 kun. Uzoq mamlakatlar: 7-14 kun. EMS standart pochtadan ikki barobar tez.",
+    "answer_ru": "EMS — быстрая отслеживаемая международная служба. Внутри Узбекистана: 1-3 дня. Соседние страны: 5-10 дней. Дальние страны: 7-14 дней. EMS вдвое быстрее обычной почты.",
+    "answer_en": "EMS — fast tracked international service. Within Uzbekistan: 1-3 days. Neighboring countries: 5-10 days. Far countries: 7-14 days. EMS is twice as fast as standard mail."
+  },
+  {
+    "id": 28,
+    "category": "eta",
+    "question_uz": "Namangangatn Toshkentga qancha kun ketadi?",
+    "question_ru": "Сколько дней из Намангана до Ташкента?",
+    "question_en": "How many days from Namangan to Tashkent?",
+    "answer_uz": "Namangantan Toshkentga: Bir Qadam — 1-2 kun. Standart jo'natma — 2-3 kun. Namangan viloyat markazida bo'lgani uchun yo'l yaxshi va tez.",
+    "answer_ru": "Из Намангана в Ташкент: Bir Qadam — 1-2 дня. Стандартная — 2-3 дня.",
+    "answer_en": "Namangan to Tashkent: Bir Qadam — 1-2 days. Standard — 2-3 days."
+  },
+  {
+    "id": 29,
+    "category": "eta",
+    "question_uz": "Qoraqalpog'istonga jo'natma necha kunda yetadi?",
+    "question_ru": "Сколько дней идёт посылка в Каракалпакстан?",
+    "question_en": "How many days to Karakalpakstan?",
+    "answer_uz": "Qoraqalpog'iston (Nukus va atrofi) — O'zbekistonning uzoq hududlaridan biri. Toshkentdan: Bir Qadam — 3-5 kun, standart — 5-7 kun. Qishloq hududlari biroz ko'proq vaqt olishi mumkin.",
+    "answer_ru": "Каракалпакстан (Нукус и окрестности) — один из отдалённых регионов. Из Ташкента: Bir Qadam — 3-5 дней, стандарт — 5-7 дней.",
+    "answer_en": "Karakalpakstan (Nukus area) — remote region. From Tashkent: Bir Qadam — 3-5 days, standard — 5-7 days."
+  },
+  {
+    "id": 30,
+    "category": "eta",
+    "question_uz": "AQShdan jo'natma qancha vaqtda yetib keladi?",
+    "question_ru": "Сколько идёт посылка из США?",
+    "question_en": "How long does a parcel from the USA take?",
+    "answer_uz": "AQShdan O'zbekistonga: Standart pochta — 25-45 kun. EMS — 14-21 kun. DHL/FedEx — 5-10 kun (lekin ancha qimmat). Bojxona tekshiruvi ham vaqt oladi.",
+    "answer_ru": "Из США в Узбекистан: Стандартная почта — 25-45 дней. EMS — 14-21 день. DHL/FedEx — 5-10 дней (дорого). Плюс таможня.",
+    "answer_en": "USA to Uzbekistan: Standard mail — 25-45 days. EMS — 14-21 days. DHL/FedEx — 5-10 days (expensive). Plus customs time."
+  },
+  {
+    "id": 31,
+    "category": "status",
+    "question_uz": "Tracking saytida 'Saralash markazida' deyapti, bu nima degani?",
+    "question_ru": "В трекинге написано 'Сортировочный центр', что это значит?",
+    "question_en": "Tracking says 'Sorting center', what does that mean?",
+    "answer_uz": "'Saralash markazida' — jo'natmangiz katta tarqatish markazida (odatda Toshkentdagi markaziy pochta) va u yerdan yo'nalish bo'yicha yo'llanmoqda. Bu normal tranzit jarayon, 1-2 kunda keyingi bosqichga o'tadi.",
+    "answer_ru": "'Сортировочный центр' — посылка находится в крупном распределительном центре (обычно центральная почта Ташкента) и распределяется по направлениям. Нормальный транзит, 1-2 дня.",
+    "answer_en": "'Sorting center' — parcel is at a large distribution center (usually Tashkent central post) being directed to the right destination. Normal transit, 1-2 days."
+  },
+  {
+    "id": 32,
+    "category": "status",
+    "question_uz": "Tracking saytida 'Yetkazib berildi' deyapti lekin men olmadim",
+    "question_ru": "В трекинге 'Доставлено', но я не получал",
+    "question_en": "Tracking says 'Delivered' but I didn't receive it",
+    "answer_uz": "'Yetkazib berildi' ba'zan qo'shni yoki qarindoshga topshirilgan bo'lishi mumkin. Avval yaqinlaringizni so'rang. Hech kim olmagan bo'lsa — 1165 ga qo'ng'iroq qiling, ular yetkazuvchi ma'lumotini tekshiradi.",
+    "answer_ru": "'Доставлено' — иногда передано соседу или родственнику. Сначала проверьте у близких. Никто не брал — позвоните 1165, они проверят данные курьера.",
+    "answer_en": "'Delivered' — may have been handed to a neighbor or relative. Check with people nearby first. Nobody received it — call 1165, they'll check the courier's records."
+  },
+  {
+    "id": 33,
+    "category": "status",
+    "question_uz": "Status uzoq vaqtdan beri o'zgarmayapti",
+    "question_ru": "Статус долго не меняется",
+    "question_en": "Status hasn't changed for a long time",
+    "answer_uz": "Agar status 3 kundan ko'p o'zgarmasa (ichki jo'natmalar uchun) yoki 10 kundan ko'p (xalqaro) — 1165 ga murojaat qiling. Trek raqamingizni tayyorlang. Ular ichki tizimda jo'natmangiz holatini tekshiradilar.",
+    "answer_ru": "Если статус не меняется 3+ дней (внутренние) или 10+ дней (международные) — обратитесь в 1165. Держите трек-номер наготове.",
+    "answer_en": "If status hasn't changed 3+ days (domestic) or 10+ days (international) — contact 1165. Have your tracking number ready."
+  },
+  {
+    "id": 34,
+    "category": "status",
+    "question_uz": "'Oluvchi topilmadi' status nima degani?",
+    "question_ru": "Статус 'Получатель не найден' что значит?",
+    "question_en": "What does 'Recipient not found' status mean?",
+    "answer_uz": "'Oluvchi topilmadi' — yetkazuvchi sizni uyingizda topa olmagan. U holda: 1) Jo'natmangiz bo'limga qaytariladi, 2) SMS yoki qo'ng'iroq kutib turing, 3) Bo'limga o'zingiz borishingiz mumkin. Telefon raqamingiz to'g'ri kiritilganligini tekshiring.",
+    "answer_ru": "'Получатель не найден' — курьер не застал вас дома. Тогда: 1) Посылку вернут в отделение, 2) Ждите SMS или звонка, 3) Можете сами прийти в отделение. Проверьте правильность номера телефона.",
+    "answer_en": "'Recipient not found' — courier couldn't find you at home. Then: 1) Parcel returned to branch, 2) Wait for SMS or call, 3) You can go to the branch yourself. Check your phone number is correct."
+  },
+  {
+    "id": 35,
+    "category": "status",
+    "question_uz": "Tracking saytida 'Qaytarildi' deyapti, nima bo'ldi?",
+    "question_ru": "В трекинге 'Возвращено', что произошло?",
+    "question_en": "Tracking says 'Returned', what happened?",
+    "answer_uz": "'Qaytarildi' — jo'natma jo'natuvchiga qaytarilayapti. Sabab: 30 kun saqlanish muddati o'tdi, manzil noto'g'ri, yoki oluvchi topilmadi. 1165 ga qo'ng'iroq qilib tafsilotlarni bilib oling.",
+    "answer_ru": "'Возвращено' — посылка возвращается отправителю. Причина: истёк 30-дневный срок, неверный адрес или получатель не найден. Позвоните 1165 для деталей.",
+    "answer_en": "'Returned' — parcel is being returned to sender. Reason: 30-day storage expired, wrong address, or recipient not found. Call 1165 for details."
+  },
+  {
+    "id": 36,
+    "category": "status",
+    "question_uz": "Jo'natma manzilim bo'limda turishi uchun nima qilish kerak?",
+    "question_ru": "Что нужно чтобы посылка хранилась в отделении по моему месту жительства?",
+    "question_en": "What to do to have the parcel held at my local branch?",
+    "answer_uz": "Jo'natmangiz avtomatik ravishda manzil bo'yicha eng yaqin bo'limga yo'llanadi. Agar boshqa bo'limga yo'naltirishni xohlasangiz — jo'natishdan oldin jo'natuvchiga aniq bo'lim manzilini ayting.",
+    "answer_ru": "Посылка автоматически направляется в ближайшее к адресу отделение. Если нужно другое — сообщите отправителю точный адрес отделения до отправки.",
+    "answer_en": "The parcel is automatically directed to the nearest branch at the address. If you need a different branch — tell the sender the exact branch address before shipping."
+  },
+  {
+    "id": 37,
+    "category": "status",
+    "question_uz": "Jo'natma 'Tranzit bo'limida' ko'rsatmoqda, bu qayerda?",
+    "question_ru": "'Транзитное отделение' — где это?",
+    "question_en": "Shows 'Transit branch' — where is that?",
+    "answer_uz": "Tranzit bo'limi — jo'natmangiz o'tuvchi oraliq punkti. Odatda viloyat markazidagi yirik pochta bo'limi. U yerdan keyingi yo'nalishga jo'natiladi. 1-2 kun ichida keyingi statusga o'tishi kerak.",
+    "answer_ru": "Транзитное отделение — промежуточный пункт. Обычно крупное почтовое отделение в областном центре. Оттуда отправляется дальше. 1-2 дня до следующего статуса.",
+    "answer_en": "Transit branch — an intermediate point. Usually a large post office in a regional center. Sent forward from there. 1-2 days to next status update."
+  },
+  {
+    "id": 38,
+    "category": "status",
+    "question_uz": "'Bojxona tekshiruvida' degan statusdan keyin qancha kunda o'tadi?",
+    "question_ru": "Сколько занимает статус 'На таможенной проверке'?",
+    "question_en": "How long does 'At customs inspection' status last?",
+    "answer_uz": "Bojxona tekshiruvi odatda 1-5 kun. Ba'zan 7 kungacha cho'zilishi mumkin (bayramlar, yuqori hajm). Status o'zgarmasa 7+ kun — 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Таможенная проверка обычно 1-5 дней. Иногда до 7 (праздники, высокий объём). Статус не меняется 7+ дней — звоните 1165.",
+    "answer_en": "Customs inspection usually 1-5 days. Sometimes up to 7 (holidays, high volume). Status unchanged 7+ days — call 1165."
+  },
+  {
+    "id": 39,
+    "category": "status",
+    "question_uz": "Bir Qadam va oddiy posilka farqi nima?",
+    "question_ru": "Чем отличается Bir Qadam от обычной посылки?",
+    "question_en": "What is the difference between Bir Qadam and regular parcel?",
+    "answer_uz": "Bir Qadam — premium tez yetkazish xizmati. Farqlari: 1) Bir Qadam: 24-48 soat (ichki), tracking real-time, kafolatlangan. 2) Oddiy posilka: 3-7 kun, arzonroq, tracking asosiy. Bir Qadam narxi biroz yuqori ammo ishonchli.",
+    "answer_ru": "Bir Qadam — премиум экспресс-доставка. Разница: 1) Bir Qadam: 24-48 ч (внутри), трекинг в реальном времени, гарантия. 2) Обычная: 3-7 дней, дешевле, базовый трекинг.",
+    "answer_en": "Bir Qadam — premium express service. Difference: 1) Bir Qadam: 24-48h (domestic), real-time tracking, guaranteed. 2) Regular: 3-7 days, cheaper, basic tracking."
+  },
+  {
+    "id": 40,
+    "category": "status",
+    "question_uz": "Jo'natma barcha status bosqichlari qanday?",
+    "question_ru": "Какие бывают статусы отправлений?",
+    "question_en": "What are the shipment status stages?",
+    "answer_uz": "Asosiy status bosqichlari: 1) Qabul qilindi (jo'natuvchi bo'limda), 2) Saralash markazida, 3) Tranzitda, 4) Bojxona tekshiruvida (xalqaro), 5) Oluvchi bo'limiga yetdi, 6) Yetkazib berildi (yoki 'Olib ketildi'). Har bir bosqich tracking da ko'rinadi.",
+    "answer_ru": "Основные статусы: 1) Принято (у отправителя), 2) Сортировочный центр, 3) В пути, 4) На таможне (международные), 5) Прибыло в отделение, 6) Доставлено / Получено.",
+    "answer_en": "Main status stages: 1) Accepted (at sender's branch), 2) Sorting center, 3) In transit, 4) At customs (international), 5) Arrived at destination branch, 6) Delivered / Picked up."
+  },
+  {
+    "id": 41,
+    "category": "customs",
+    "question_uz": "Koreyadangi jo'natma tamojnida to'xtatildi, nima qilish kerak?",
+    "question_ru": "Посылка из Кореи задержана на таможне, что делать?",
+    "question_en": "Parcel from Korea held at customs, what to do?",
+    "answer_uz": "Koreya jo'natmalari ham standart bojxona tartibiga bo'ysunadi. Tekshiruv 3-7 kun. Agar qo'shimcha hujjat yoki to'lov talab qilinsa — sizga xabar qilinadi. Agar 7 kundan ko'p o'tsa va hech narsa bo'lmasa — 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Корейские посылки подчиняются стандартной таможне. Проверка 3-7 дней. Если нужны документы или оплата — вам сообщат. Более 7 дней без изменений — 1165.",
+    "answer_en": "Korean parcels follow standard customs. Inspection 3-7 days. If documents or payment needed — you'll be notified. More than 7 days without change — call 1165."
+  },
+  {
+    "id": 42,
+    "category": "customs",
+    "question_uz": "Elektronika (telefon) bojxona tekshiruvidan o'tadimi?",
+    "question_ru": "Проходит ли электроника (телефон) через таможню?",
+    "question_en": "Does electronics (phone) go through customs?",
+    "answer_uz": "Ha, telefon va elektronika bojxonadan o'tadi. Shaxsiy foydalanish uchun bitta telefon — odatda muammosiz o'tadi. Ikkita va undan ko'p — savdo maqsadida deb hisoblanishi va qo'shimcha to'lov talab qilinishi mumkin. Narxi 200 USD dan oshmasligi kerak.",
+    "answer_ru": "Да, электроника проходит таможню. Один телефон для личного пользования — обычно без проблем. Два и больше — могут счесть коммерческой партией и потребовать доплату. Цена не должна превышать $200.",
+    "answer_en": "Yes, electronics go through customs. One phone for personal use — usually fine. Two or more — may be considered commercial and require additional payment. Value must not exceed $200."
+  },
+  {
+    "id": 43,
+    "category": "delay",
+    "question_uz": "Jo'natma Toshkentdan Andijongatn 5 kunda yetmadi, normal holat?",
+    "question_ru": "Посылка из Ташкента в Андижан 5 дней — нормально?",
+    "question_en": "Parcel from Tashkent to Andijan 5 days — is that normal?",
+    "answer_uz": "Andijon uchun 5 kun — biroz ko'proq. Odatda 2-3 kun. Sabab: bayram, yuqori hajm yoki kechikish. Trek raqamingizni yuboring — aniq joylashuvini ko'rsataman.",
+    "answer_ru": "5 дней в Андижан — немного больше обычного (2-3 дня). Причина: праздник, высокий объём или задержка. Пришлите трек-номер.",
+    "answer_en": "5 days to Andijan — a bit long (usually 2-3 days). Reason: holiday, high volume or delay. Send tracking number."
+  },
+  {
+    "id": 44,
+    "category": "pickup",
+    "question_uz": "Kuryerlik yetkazish xizmati bormi?",
+    "question_ru": "Есть ли курьерская доставка?",
+    "question_en": "Is there courier delivery service?",
+    "answer_uz": "Ha! UzPost kuryerlik yetkazish xizmati mavjud. Bir Qadam xizmati orqali kuryeringiz uyingizgacha olib kelishi mumkin. Toshkentda keng qamrovli, viloyatlarda ham mavjud. Narx va mavjudligini 1165 orqali tekshiring.",
+    "answer_ru": "Да! UzPost предлагает курьерскую доставку через Bir Qadam — курьер доставит домой. В Ташкенте широко, в регионах тоже. Уточните наличие и цену по 1165.",
+    "answer_en": "Yes! UzPost offers courier delivery via Bir Qadam — courier brings it to your door. Wide coverage in Tashkent, available in regions too. Check availability and price via 1165."
+  },
+  {
+    "id": 45,
+    "category": "status",
+    "question_uz": "Trek raqam qayerdan topaman?",
+    "question_ru": "Где найти трек-номер?",
+    "question_en": "Where do I find the tracking number?",
+    "answer_uz": "Trek raqam quyidagi joylarda: 1) Jo'natuvchidan oling (ular qabul qilingan chekda ko'radi), 2) Internet-do'kon buyurtma tarixida, 3) Jo'natilganda email/SMS orqali kelgan bo'lishi mumkin. Masalan: MM123456789UZ, SB12345678901 formatda bo'ladi.",
+    "answer_ru": "Трек-номер: 1) Попросите у отправителя (у них в чеке), 2) В истории заказов интернет-магазина, 3) Может прийти на email/SMS при отправке. Формат: MM123456789UZ, SB12345678901.",
+    "answer_en": "Find tracking number: 1) Ask the sender (they have the receipt), 2) In your online store order history, 3) May have been sent by email/SMS when shipped. Format: MM123456789UZ, SB12345678901."
+  },
+  {
+    "id": 46,
+    "category": "customs",
+    "question_uz": "Parfyumeriya jo'natsa bo'ladimi?",
+    "question_ru": "Можно ли отправлять парфюмерию?",
+    "question_en": "Can perfume be sent by post?",
+    "answer_uz": "Parfyumeriya — spirtli moddalar tufayli havo orqali jo'natishda cheklov bor. Quruqlik yo'li bilan jo'natish mumkin. Hajmi kichik (50ml gacha) bo'lsa va yaxshi qadoqlansa — ko'pincha o'tadi. Tafsilot uchun 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Парфюмерия — ограничения по авиа из-за спирта. По наземному маршруту можно. Небольшой объём (до 50 мл) и хорошая упаковка — обычно проходит. Детали по 1165.",
+    "answer_en": "Perfume — restricted by air due to alcohol content. Can be sent by ground route. Small volume (up to 50ml) and good packaging — usually passes. Details via 1165."
+  },
+  {
+    "id": 47,
+    "category": "delay",
+    "question_uz": "Germaniyadan posylka 3 hafta bo'ldi, bu normal?",
+    "question_ru": "Посылка из Германии 3 недели — это нормально?",
+    "question_en": "Parcel from Germany 3 weeks — is that normal?",
+    "answer_uz": "Germaniyadan 3 hafta — standart vaqtning yuqori chegarasi. Odatda 20-35 kun. Agar tracking yangilanib tursa va bojxona bosqichini ko'rsatsa — jarayon davom etayapti. Yangilanmasa 5+ kun — 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "3 недели из Германии — верхняя граница нормы (20-35 дней). Если трекинг обновляется и показывает таможню — процесс идёт. Нет обновлений 5+ дней — 1165.",
+    "answer_en": "3 weeks from Germany — upper limit of normal (20-35 days). If tracking updates and shows customs — process ongoing. No updates 5+ days — call 1165."
+  },
+  {
+    "id": 48,
+    "category": "no_sms",
+    "question_uz": "SMS kelmayapti ammo trackingda bo'limda ko'rsatmoqda, nima qilish kerak?",
+    "question_ru": "SMS не приходит, но трекинг показывает что в отделении, что делать?",
+    "question_en": "No SMS but tracking shows it's at the branch, what to do?",
+    "answer_uz": "SMS texnik sabab yoki operator muammosi tufayli kelmagan bo'lishi mumkin. Ammo tracking to'g'ri ko'rsatayapti. Pasportingizni olib, tracking da ko'rsatilgan bo'limga boring va jo'natmangizni oling!",
+    "answer_ru": "SMS не пришёл из-за технического сбоя. Но трекинг правильный — возьмите паспорт и идите в отделение, указанное в трекинге, за посылкой!",
+    "answer_en": "SMS failed to arrive — technical issue. But tracking is correct — take your passport and go to the branch shown in tracking to pick up your parcel!"
+  },
+  {
+    "id": 49,
+    "category": "lost",
+    "question_uz": "Tracking ham topilmaydi, jo'natuvchi ham bilmaydi, nima qilish kerak?",
+    "question_ru": "Трекинг не работает, отправитель тоже не знает, что делать?",
+    "question_en": "Tracking not working, sender doesn't know either, what to do?",
+    "answer_uz": "Bu jiddiy holat. Qadamlar: 1) Trek raqamni qayta tekshiring — ba'zan noto'g'ri yoziladi, 2) 48-72 soat kuting — yangi jo'natmalar skanlanishi vaqt olishi mumkin, 3) 1165 ga qo'ng'iroq qiling, 4) info@pochta.uz ga rasmiy murojaat yuboring.",
+    "answer_ru": "Серьёзная ситуация. Шаги: 1) Перепроверьте трек-номер, 2) Подождите 48-72 часа — новые отправления могут ещё не сканироваться, 3) Позвоните 1165, 4) Напишите официально на info@pochta.uz.",
+    "answer_en": "Serious situation. Steps: 1) Recheck tracking number, 2) Wait 48-72 hours — new shipments may not be scanned yet, 3) Call 1165, 4) Send official request to info@pochta.uz."
+  },
+  {
+    "id": 50,
+    "category": "status",
+    "question_uz": "Jo'natma ikki haftadan beri tranzitda, xato bormi?",
+    "question_ru": "Посылка две недели в транзите, что-то не так?",
+    "question_en": "Parcel two weeks in transit, something wrong?",
+    "answer_uz": "Ichki jo'natma uchun 2 hafta tranzit — bu juda ko'p. Xalqaro bo'lsa — bojxona ta'sirida bo'lishi mumkin. Har ikkala holda ham 1165 ga qo'ng'iroq qilib holatni aniqlashtirish kerak. Trek raqamingizni tayyorlab qo'ying.",
+    "answer_ru": "2 недели в транзите для внутренней — очень много. Международная — может быть на таможне. В любом случае позвоните 1165. Держите трек-номер готовым.",
+    "answer_en": "2 weeks in transit for domestic — too long. International — may be at customs. Either way, call 1165. Have tracking number ready."
+  },
+  {
+    "id": 51,
+    "category": "customs",
+    "question_uz": "Kitoblar jo'natishda bojxona to'lovimi kerakmi?",
+    "question_ru": "Нужно ли платить таможню при получении книг?",
+    "question_en": "Is customs duty required for books?",
+    "answer_uz": "Kitoblar — odatda bojxona to'lovi bo'lmaydi (madaniy meros) agar umumiy qiymat 200 USD dan oshmasa. Ko'p miqdordagi kitoblar yoki qimmat nashrlar tekshirilishi mumkin. Tijorat maqsadida bo'lsa — to'lov bo'ladi.",
+    "answer_ru": "Книги — обычно без пошлины (культурное наследие), если общая стоимость до $200. Большое количество или дорогие издания могут проверить. Коммерческое использование — с пошлиной.",
+    "answer_en": "Books — usually no duty (cultural heritage) if total value under $200. Large quantities or expensive editions may be checked. Commercial use — duty applies."
+  },
+  {
+    "id": 52,
+    "category": "delay",
+    "question_uz": "Toshkent shahrining o'zida jo'natma 2 kunda kelmadi, nega?",
+    "question_ru": "Внутри Ташкента посылка 2 дня не пришла, почему?",
+    "question_en": "Within Tashkent city parcel not arrived in 2 days, why?",
+    "answer_uz": "Toshkent ichi uchun 2 kun — Bir Qadam xizmati uchun biroz ko'proq. Sabab: yuqori ish hajmi, kuryerning grafigi, yoki noto'g'ri manzil. Trek raqamingizni yuboring — joylashuvini ko'rsataman.",
+    "answer_ru": "Внутри Ташкента 2 дня — для Bir Qadam немного больше нормы. Причина: высокий объём, график курьера, или неверный адрес. Пришлите трек.",
+    "answer_en": "Within Tashkent 2 days — a bit long for Bir Qadam. Reason: high volume, courier schedule, or wrong address. Send tracking number."
+  },
+  {
+    "id": 53,
+    "category": "pickup",
+    "question_uz": "Pasportsiz jo'natmani olib bo'ladimi?",
+    "question_ru": "Можно ли получить посылку без паспорта?",
+    "question_en": "Can I pick up a parcel without a passport?",
+    "answer_uz": "Yo'q, jo'natmani olish uchun shaxsni tasdiqlovchi hujjat talab qilinadi. Pasport bo'lmasa — ID karta yoki haydovchilik guvohnomasi (ba'zi hollarda) kerak. Xorij pasporti ham qabul qilinishi mumkin.",
+    "answer_ru": "Нет, нужен документ, удостоверяющий личность. Без паспорта — ID-карта или водительские права (в некоторых случаях). Иностранный паспорт также может приниматься.",
+    "answer_en": "No, ID document is required. Without passport — ID card or driving license (in some cases). Foreign passport may also be accepted."
+  },
+  {
+    "id": 54,
+    "category": "status",
+    "question_uz": "Online buyurtma — qachon trek raqam beriladi?",
+    "question_ru": "Онлайн заказ — когда дают трек-номер?",
+    "question_en": "Online order — when is the tracking number given?",
+    "answer_uz": "Trek raqam jo'natuvchi (do'kon) jo'natmani pochtaga topshirganida beriladi. Odatda buyurtma qilgandan 1-3 kun keyin. Do'kon siz bilan email/SMS orqali ulashishi kerak. Agar kelmasa — do'konkahmurojaat qiling.",
+    "answer_ru": "Трек-номер выдаётся когда продавец сдаёт посылку в почту. Обычно через 1-3 дня после заказа. Магазин должен прислать вам email/SMS. Не пришёл — свяжитесь с магазином.",
+    "answer_en": "Tracking number given when seller submits parcel to post office. Usually 1-3 days after ordering. The store should email/SMS it to you. Not received — contact the store."
+  },
+  {
+    "id": 55,
+    "category": "customs",
+    "question_uz": "Oyinchoqlar xalqaro pochta orqali jo'natsa bo'ladimi?",
+    "question_ru": "Можно ли отправлять игрушки через международную почту?",
+    "question_en": "Can toys be sent via international post?",
+    "answer_uz": "Oyinchoqlar — jo'natish mumkin. Umumiy qiymat 200 USD dan oshmasa bo'adi. Batareyali yoki elektronik oyinchoqlar aviya jo'natmalarda cheklov bo'lishi mumkin (xavfsizlik sababi). Qadoqlash yaxshi bo'lishi kerak.",
+    "answer_ru": "Игрушки — можно отправлять. Общая стоимость до $200. Игрушки с батарейками или электронные — ограничения по авиа (безопасность). Хорошая упаковка обязательна.",
+    "answer_en": "Toys — can be sent. Total value under $200. Battery or electronic toys — restrictions by air (safety). Good packaging required."
+  },
+  {
+    "id": 56,
+    "category": "eta",
+    "question_uz": "Qozog'istondan O'zbekistonga necha kun?",
+    "question_ru": "Сколько дней из Казахстана в Узбекистан?",
+    "question_en": "How many days from Kazakhstan to Uzbekistan?",
+    "answer_uz": "Qozog'istondan O'zbekistonga: Standart pochta — 7-14 kun. EMS — 3-7 kun. Olmaota va Nur-Sulton (Astana)dan — 7-10 kun. Chegara yaqin shaharlardan (Shymkent) — 5-7 kun.",
+    "answer_ru": "Из Казахстана в Узбекистан: Стандарт — 7-14 дней. EMS — 3-7 дней. Из Алматы, Нур-Султана — 7-10 дней. Из Шымкента — 5-7 дней.",
+    "answer_en": "Kazakhstan to Uzbekistan: Standard — 7-14 days. EMS — 3-7 days. From Almaty, Nur-Sultan — 7-10 days. From Shymkent — 5-7 days."
+  },
+  {
+    "id": 57,
+    "category": "status",
+    "question_uz": "Pochta bo'limiga qo'ng'iroq qilish mumkinmi?",
+    "question_ru": "Можно ли позвонить в почтовое отделение?",
+    "question_en": "Can I call the post office branch?",
+    "answer_uz": "Markaziy qo'ng'iroq markazi: 📞 1165 (24/7). Bu orqali: jo'natma holati, bo'lim manzili, ish vaqti haqida so'rashingiz mumkin. Alohida bo'lim raqamlari ham mavjud — 1165 dan so'rang.",
+    "answer_ru": "Центральный колл-центр: 📞 1165 (24/7). Можно узнать: статус, адрес отделения, время работы. Номера отдельных отделений — уточните через 1165.",
+    "answer_en": "Central call center: 📞 1165 (24/7). You can ask: status, branch address, working hours. Individual branch numbers — ask via 1165."
+  },
+  {
+    "id": 58,
+    "category": "delay",
+    "question_uz": "Xorazmga jo'natma necha kunda yetadi?",
+    "question_ru": "Сколько дней идёт посылка в Хорезм?",
+    "question_en": "How many days to Khorezm?",
+    "answer_uz": "Xorazm (Urganch, Xiva) — uzoq viloyat. Toshkentdan: Bir Qadam — 3-5 kun, Standart — 4-6 kun. Qishda yo'l sharoiti ta'sirida biroz uzayishi mumkin.",
+    "answer_ru": "Хорезм (Ургенч, Хива) — отдалённый регион. Из Ташкента: Bir Qadam — 3-5 дней, Стандарт — 4-6 дней. Зимой — немного дольше из-за дорог.",
+    "answer_en": "Khorezm (Urgench, Khiva) — remote region. From Tashkent: Bir Qadam — 3-5 days, Standard — 4-6 days. Winter — slightly longer."
+  },
+  {
+    "id": 59,
+    "category": "customs",
+    "question_uz": "Kosmetika va terini parvarish mahsulotlari jo'natsam bo'ladimi?",
+    "question_ru": "Можно ли отправлять косметику и средства по уходу за кожей?",
+    "question_en": "Can cosmetics and skincare products be sent?",
+    "answer_uz": "Kosmetika jo'natish mumkin. Suyuqliklar (krем, losyon) — aviya orqali 100ml gacha, quruqlik orqali ko'proq. Umumiy qiymat 200 USD dan oshmasligi kerak. Shisha qadoqlash yaxshi bo'lishi kerak.",
+    "answer_ru": "Косметику можно отправлять. Жидкости (крем, лосьон) — авиа до 100 мл, наземный — больше. Общая стоимость до $200. Стеклянная тара — хорошая упаковка.",
+    "answer_en": "Cosmetics can be sent. Liquids (cream, lotion) — air up to 100ml, ground more. Total value under $200. Glass packaging — good wrapping needed."
+  },
+  {
+    "id": 60,
+    "category": "lost",
+    "question_uz": "Kompensatsiya olish mumkinmi agar jo'natma yo'qolsa?",
+    "question_ru": "Можно ли получить компенсацию если посылка потерялась?",
+    "question_en": "Can I get compensation if the parcel is lost?",
+    "answer_uz": "Ha, agar jo'natma sug'urtalangan bo'lsa kompensatsiya olish mumkin. Sug'urtasiz jo'natmalarda kompensatsiya cheklangan. Rasmiy shikoyat uchun: 1165 yoki info@pochta.uz. Jo'natma sanasi, raqami, qiymati hujjatlarini tayyorlang.",
+    "answer_ru": "Да, если посылка была застрахована. Без страховки — компенсация ограничена. Для официальной жалобы: 1165 или info@pochta.uz. Подготовьте документы: дата, номер, стоимость.",
+    "answer_en": "Yes, if the parcel was insured. Without insurance — compensation is limited. For official complaint: 1165 or info@pochta.uz. Prepare documents: date, number, value."
+  },
+  {
+    "id": 61,
+    "category": "status",
+    "question_uz": "UzPost ilovasi bormi tracking uchun?",
+    "question_ru": "Есть ли приложение UzPost для отслеживания?",
+    "question_en": "Is there a UzPost app for tracking?",
+    "answer_uz": "UzPost rasmiy kanallari: 1) Sayt: https://uz.post/uz/track, 2) Telegram bot: @uzpostbot, 3) 1165 qo'ng'iroq markazi. Alohida mobil ilova ham mavjud — Play Store va App Store da 'UzPost' deb izlang.",
+    "answer_ru": "Официальные каналы UzPost: 1) Сайт: https://uz.post/uz/track, 2) Telegram-бот: @uzpostbot, 3) 1165. Мобильное приложение — в Play Store и App Store поищите 'UzPost'.",
+    "answer_en": "UzPost official channels: 1) Website: https://uz.post/uz/track, 2) Telegram bot: @uzpostbot, 3) 1165 call center. Mobile app — search 'UzPost' in Play Store and App Store."
+  },
+  {
+    "id": 62,
+    "category": "pickup",
+    "question_uz": "Jo'natmani manzilimga emas, boshqa joyga yuborsam bo'ladimi?",
+    "question_ru": "Можно ли перенаправить посылку в другое место?",
+    "question_en": "Can I redirect the parcel to a different location?",
+    "answer_uz": "Jo'natma jo'natilgandan keyin yo'nalishni o'zgartirish qiyin. Agar bo'limga yetmagan bo'lsa — 1165 ga qo'ng'iroq qilib so'rang. Agar bo'limda bo'lsa — boshqa odam pasport bilan o'sha bo'limdan olishi mumkin.",
+    "answer_ru": "Изменить направление после отправки — сложно. Если ещё не в отделении — позвоните 1165. Если уже в отделении — другой человек с паспортом может забрать оттуда.",
+    "answer_en": "Redirecting after shipping is difficult. If not yet at branch — call 1165. If already at branch — another person with passport can pick it up from there."
+  },
+  {
+    "id": 63,
+    "category": "customs",
+    "question_uz": "Turk internet do'konlaridan tovar kelishi uchun qancha kunu kutish kerak?",
+    "question_ru": "Сколько ждать товар из турецких интернет-магазинов?",
+    "question_en": "How long to wait for goods from Turkish online stores?",
+    "answer_uz": "Turkiyadan O'zbekistonga: Standart pochta — 15-25 kun. Turkiya pochta xizmati (PTT) — 10-20 kun. Tez yetkazish — 7-14 kun. Bojxona — 3-7 kun qo'shimcha. Jami: 20-35 kun taxminan.",
+    "answer_ru": "Из Турции в Узбекистан: Стандарт — 15-25 дней. PTT — 10-20 дней. Экспресс — 7-14 дней. Таможня — +3-7 дней. Итого: ~20-35 дней.",
+    "answer_en": "Turkey to Uzbekistan: Standard — 15-25 days. PTT — 10-20 days. Express — 7-14 days. Customs +3-7 days. Total: ~20-35 days."
+  },
+  {
+    "id": 64,
+    "category": "status",
+    "question_uz": "Jo'natma raqamim qaysi formatda bo'lishi kerak?",
+    "question_ru": "В каком формате должен быть мой трек-номер?",
+    "question_en": "What format should my tracking number be in?",
+    "answer_uz": "UzPost trek raqam formatlari: 1) MM123456789UZ (13 belgi — standart), 2) RR987654321UZ (ro'yxatli), 3) SB12345678901 (Bir Qadam), 4) EE123456789UZ (EMS). Xalqaro jo'natmalar uchun boshqa format bo'lishi mumkin.",
+    "answer_ru": "Форматы трек-номеров: 1) MM123456789UZ (13 знаков — стандарт), 2) RR987654321UZ (заказное), 3) SB12345678901 (Bir Qadam), 4) EE123456789UZ (EMS). Международные — формат может отличаться.",
+    "answer_en": "Track number formats: 1) MM123456789UZ (13 chars — standard), 2) RR987654321UZ (registered), 3) SB12345678901 (Bir Qadam), 4) EE123456789UZ (EMS). International may differ."
+  },
+  {
+    "id": 65,
+    "category": "delay",
+    "question_uz": "Jo'natmam muddati o'tib ketdi, buni qaerga bildiraman?",
+    "question_ru": "Срок доставки прошёл, куда сообщить?",
+    "question_en": "Delivery deadline passed, where to report?",
+    "answer_uz": "Kechikish haqida: 1) 1165 ga qo'ng'iroq qiling (24/7), 2) info@pochta.uz ga xat yozing. Trek raqami, jo'natish sanasi, taxminiy yetkazish sanasini ayting. Ular ichki tizimda tekshiradilar.",
+    "answer_ru": "О задержке: 1) Позвоните 1165 (24/7), 2) Напишите на info@pochta.uz. Укажите трек-номер, дату отправки, ожидаемую дату. Они проверят в системе.",
+    "answer_en": "Report delay: 1) Call 1165 (24/7), 2) Email info@pochta.uz. Provide tracking number, send date, expected delivery date. They'll check the system."
+  },
+  {
+    "id": 66,
+    "category": "customs",
+    "question_uz": "O'zbekistonga avtomobil zapchastlari jo'natish mumkinmi?",
+    "question_ru": "Можно ли отправить автозапчасти в Узбекистан?",
+    "question_en": "Can car parts be sent to Uzbekistan?",
+    "answer_uz": "Avtomobil zapchastlari — jo'natish mumkin. Ammo: 1) Ba'zi elektrohim zapchastlar aviya orqali taqiqlangan, 2) Qiymat 200 USD dan oshsa bojxona to'lovi, 3) Quruqlik yo'li tavsiya etiladi. 1165 ga qo'ng'iroq qilib aniq ma'lumot oling.",
+    "answer_ru": "Автозапчасти — можно. Но: 1) Некоторые электрохимические детали запрещены авиа, 2) Стоимость свыше $200 — пошлина, 3) Рекомендуется наземный путь. Детали — 1165.",
+    "answer_en": "Car parts — can be sent. But: 1) Some electrochemical parts restricted by air, 2) Value over $200 — duty, 3) Ground route recommended. Details — call 1165."
+  },
+  {
+    "id": 67,
+    "category": "no_sms",
+    "question_uz": "SMS o'rniga Telegram orqali xabarnoma olish mumkinmi?",
+    "question_ru": "Можно ли получать уведомления через Telegram вместо SMS?",
+    "question_en": "Can I receive notifications via Telegram instead of SMS?",
+    "answer_uz": "Ha! UzPost Telegram boti: @uzpostbot. U orqali: trek raqamingizni kiriting va jo'natmangizni real-time kuzating. SMS kelmasa ham bu bot orqali barcha ma'lumotni olasiz.",
+    "answer_ru": "Да! Telegram-бот UzPost: @uzpostbot. Введите трек-номер и отслеживайте в реальном времени. Даже без SMS — всё видно в боте.",
+    "answer_en": "Yes! UzPost Telegram bot: @uzpostbot. Enter tracking number and track in real-time. Even without SMS — all info available in the bot."
+  },
+  {
+    "id": 68,
+    "category": "pickup",
+    "question_uz": "Jo'natmani olish vaqtida boshqa bo'limga o'tkazishni so'rasam bo'ladimi?",
+    "question_ru": "Можно ли попросить перенести посылку в другое отделение?",
+    "question_en": "Can I request the parcel be transferred to another branch?",
+    "answer_uz": "Mumkin emas — jo'natma manzil bo'limida saqlanadi. Ammo: yaqin bo'limga o'tkazish uchun 1165 ga qo'ng'iroq qilib so'rash mumkin. Kafolatlanmagan, lekin ba'zan manzil bo'yicha eng yaqin bo'limga o'tkazib beriladi.",
+    "answer_ru": "Нельзя — посылка хранится в отделении по адресу. Но можно позвонить 1165 и попросить перенос в ближайшее. Не гарантировано, но иногда переводят.",
+    "answer_en": "Not standard — parcel stays at the address branch. But you can call 1165 and request transfer to the nearest branch. Not guaranteed, but sometimes done."
+  },
+  {
+    "id": 69,
+    "category": "delay",
+    "question_uz": "Pochta transport yo'lida yo'qolishi mumkinmi?",
+    "question_ru": "Может ли посылка потеряться в дороге?",
+    "question_en": "Can a parcel get lost during transport?",
+    "answer_uz": "Juda kamdan-kam holat. UzPost kuzatiluvchi jo'natmalar uchun har bir nuqtada skanerlash qiladi. Agar tracking yangilanmasa 7+ kun — 1165 ga murojaat qiling. Sug'urtalangan bo'lsa — kompensatsiya mavjud.",
+    "answer_ru": "Крайне редко. UzPost сканирует на каждой точке. Если трекинг не обновлялся 7+ дней — обратитесь в 1165. При наличии страховки — компенсация.",
+    "answer_en": "Very rare. UzPost scans at every point. If tracking hasn't updated 7+ days — contact 1165. If insured — compensation available."
+  },
+  {
+    "id": 70,
+    "category": "status",
+    "question_uz": "Jo'natmam chekini yo'qotdim, trek raqamni qanday topaman?",
+    "question_ru": "Потерял чек, как найти трек-номер?",
+    "question_en": "Lost my receipt, how to find tracking number?",
+    "answer_uz": "Chek yo'qolsa: 1) Jo'natuvchidan so'rang (ularda ham nusxasi bor), 2) Internet-do'kon buyurtma tarixiga qarang, 3) Email/SMS xabarlarini ko'ring, 4) 1165 ga qo'ng'iroq qilib nom va manzil orqali so'rang.",
+    "answer_ru": "Потерян чек: 1) Попросите у отправителя (у них есть копия), 2) Проверьте историю заказов магазина, 3) Email/SMS сообщения, 4) Позвоните 1165 — поищут по имени и адресу.",
+    "answer_en": "Lost receipt: 1) Ask sender (they have a copy), 2) Check online store order history, 3) Look through email/SMS, 4) Call 1165 — they can search by name and address."
+  },
+  {
+    "id": 71,
+    "category": "customs",
+    "question_uz": "Litriy batareyali qurilmalar jo'natishda qanday cheklovlar bor?",
+    "question_ru": "Какие ограничения при отправке устройств с литиевыми батареями?",
+    "question_en": "What restrictions apply to devices with lithium batteries?",
+    "answer_uz": "Litiy batareyalar — havo orqali jo'natishda jiddiy cheklovlar: 1) Faqat qurilma ichida bo'lishi kerak (alohida emas), 2) 100 Wh gacha bo'lgan batareyalar, 3) Telefon, laptop — mumkin ammo e'lon qilish kerak. Quruqlik orqali — kamroq cheklov.",
+    "answer_ru": "Литиевые батареи — строгие ограничения по авиа: 1) Только внутри устройства (не отдельно), 2) До 100 Вт·ч, 3) Телефон, ноутбук — можно, но нужно задекларировать. Наземный маршрут — меньше ограничений.",
+    "answer_en": "Lithium batteries — strict air restrictions: 1) Only inside devices (not separately), 2) Up to 100 Wh, 3) Phone, laptop — OK but must declare. Ground route — fewer restrictions."
+  },
+  {
+    "id": 72,
+    "category": "delay",
+    "question_uz": "Mening regionimda pochta ishi sust, nima qilish kerak?",
+    "question_ru": "В моём регионе почта работает медленно, что делать?",
+    "question_en": "Post office works slowly in my region, what to do?",
+    "answer_uz": "Mintaqaviy kechikishlar bo'lishi mumkin. Rasmiy shikoyat: 1165 ga qo'ng'iroq qiling yoki info@pochta.uz ga yozing. Bu muammolarni tizimli hal qilishga yordam beradi. Feedback berish muhim!",
+    "answer_ru": "Региональные задержки возможны. Официальная жалоба: позвоните 1165 или напишите на info@pochta.uz. Это помогает системно решить проблему. Ваш отзыв важен!",
+    "answer_en": "Regional delays can occur. Official complaint: call 1165 or email info@pochta.uz. This helps resolve issues systematically. Your feedback matters!"
+  },
+  {
+    "id": 73,
+    "category": "status",
+    "question_uz": "Jo'natmam qaysi bo'limda ekanini qanday bilib olaman?",
+    "question_ru": "Как узнать в каком отделении находится моя посылка?",
+    "question_en": "How do I find out which branch my parcel is at?",
+    "answer_uz": "Tracking saytida: https://uz.post/uz/track — trek raqamni kiriting. So'nggi voqeada 'Place' — bu jo'natmangiz hozirda turgan joyi. 'Bo'limda' desa — shu bo'lim manzilini 1165 dan bilib olishingiz mumkin.",
+    "answer_ru": "На сайте трекинга: https://uz.post/uz/track — введите трек-номер. В последнем событии поле 'Place' — это текущее местонахождение. 'В отделении' — уточните адрес через 1165.",
+    "answer_en": "At tracking site: https://uz.post/uz/track — enter tracking number. In the last event, 'Place' field — that's the current location. If 'At branch' — get address via 1165."
+  },
+  {
+    "id": 74,
+    "category": "pickup",
+    "question_uz": "Jo'natma bo'limga yetdi deb xabar kelmadi, tekshirish kerakmi?",
+    "question_ru": "Уведомление о прибытии посылки не пришло, нужно проверить?",
+    "question_en": "No notification that parcel arrived, should I check?",
+    "answer_uz": "Ha, tekshiring! SMS texnik sabab yoki operator muammosi tufayli kelmagan bo'lishi mumkin. https://uz.post/uz/track da trek raqamingizni kiriting. 'Bo'limda' desa — pasportingiz bilan o'sha bo'limga boring.",
+    "answer_ru": "Да, проверьте! SMS мог не дойти из-за техсбоя или оператора. Проверьте трек на https://uz.post/uz/track. Если 'В отделении' — идите с паспортом.",
+    "answer_en": "Yes, check! SMS may have failed. Check tracking at https://uz.post/uz/track. If 'At branch' — go with passport."
+  },
+  {
+    "id": 75,
+    "category": "customs",
+    "question_uz": "Meditsina jihozlari O'zbekistonga jo'natsa bo'ladimi?",
+    "question_ru": "Можно ли отправить медицинское оборудование в Узбекистан?",
+    "question_en": "Can medical equipment be sent to Uzbekistan?",
+    "answer_uz": "Meditsina jihozlari — ruxsat kerak bo'lishi mumkin. Oddiy jihozlar (tonometr, glyukometr) — odatda muammosiz. Murakkab yoki professional jihozlar — bojxona ruxsati va hujjatlar kerak. 1165 ga qo'ng'iroq qilib aniq ma'lumot oling.",
+    "answer_ru": "Медоборудование — может потребоваться разрешение. Простые (тонометр, глюкометр) — обычно без проблем. Сложное или профессиональное — разрешение таможни и документы. Уточните через 1165.",
+    "answer_en": "Medical equipment — may require permission. Simple devices (blood pressure monitor, glucometer) — usually fine. Complex/professional — customs permission and documents needed. Check via 1165."
+  },
+  {
+    "id": 76,
+    "category": "delay",
+    "question_uz": "Tez yetkazish xizmati nima uchun kerak?",
+    "question_ru": "Зачем нужна экспресс-доставка?",
+    "question_en": "What is express delivery for?",
+    "answer_uz": "Tez yetkazish (EMS, Bir Qadam Express) kerak bo'lgan hollar: 1) Muhim hujjatlar (viza, shartnoma), 2) Tez buziluvchi mahsulotlar, 3) Bayram sovg'alari muddatida, 4) Tibbiy ehtiyojlar. Narxi standartdan 2-3 barobar yuqori ammo kafolatlangan.",
+    "answer_ru": "Экспресс-доставка нужна: 1) Важные документы (виза, контракт), 2) Скоропортящиеся товары, 3) Подарки к празднику, 4) Медицинские нужды. Дороже в 2-3 раза, но гарантированно.",
+    "answer_en": "Express delivery needed for: 1) Important documents (visa, contract), 2) Perishables, 3) Holiday gifts on deadline, 4) Medical needs. 2-3x more expensive but guaranteed."
+  },
+  {
+    "id": 77,
+    "category": "lost",
+    "question_uz": "Boshqa odamning jo'natmasi menikiga o'xshab o'sha bo'limga kelishi mumkinmi?",
+    "question_ru": "Может ли чужая посылка попасть в моё отделение по ошибке?",
+    "question_en": "Can someone else's parcel end up at my branch by mistake?",
+    "answer_uz": "Kamdan-kam, lekin bo'lishi mumkin. Agar bo'limda sizning ismingiz bilan noto'g'ri jo'natma topilsa — qabul qilmang, bo'lim xodimlariga xabar bering. Trek raqamingiz bo'lsa — aniq o'zingiznikini aniqlash mumkin.",
+    "answer_ru": "Редко, но возможно. Если в отделении нашли посылку на ваше имя, но это не ваша — не берите, сообщите сотрудникам. Ваш трек-номер помогает точно идентифицировать.",
+    "answer_en": "Rare, but possible. If found a parcel in your name but it's not yours — don't take it, inform staff. Your tracking number helps identify exactly."
+  },
+  {
+    "id": 78,
+    "category": "status",
+    "question_uz": "Tracking saytida jo'natmam tarixi ko'rinmayapti, nega?",
+    "question_ru": "История посылки не отображается на сайте трекинга, почему?",
+    "question_en": "Parcel history not showing on tracking website, why?",
+    "answer_uz": "Tarix ko'rinmasa: 1) Jo'natilgandan 24-48 soat o'tgan bo'lmasligi mumkin (yangi jo'natmalar), 2) Trek raqam noto'g'ri kiritilgan, 3) Tizimda texnik xato. Qayta tekshiring va 24 soat kutib ko'ring.",
+    "answer_ru": "Если история не отображается: 1) Прошло менее 24-48 часов с момента отправки, 2) Неверно введён трек-номер, 3) Технический сбой. Перепроверьте и подождите 24 часа.",
+    "answer_en": "History not showing: 1) Less than 24-48 hours since shipping, 2) Wrong tracking number entered, 3) Technical error. Recheck and wait 24 hours."
+  },
+  {
+    "id": 79,
+    "category": "pickup",
+    "question_uz": "Bolam uchun jo'natma keldi, uni olib bersa bo'ladimi?",
+    "question_ru": "Пришла посылка на имя ребёнка, можно ли забрать за него?",
+    "question_en": "Parcel arrived for my child, can I pick it up for them?",
+    "answer_uz": "Ha, ota-ona yoki qonuniy vasiy bolaning jo'natmasini olishi mumkin. Pasportingizni va bolaning tug'ilganlik haqidagi guvohnoma (yoki boshqa aloqa hujjati)ni olib boring.",
+    "answer_ru": "Да, родитель или законный опекун может получить посылку ребёнка. Возьмите свой паспорт и свидетельство о рождении ребёнка (или другой документ о связи).",
+    "answer_en": "Yes, parent or legal guardian can pick up a child's parcel. Bring your passport and the child's birth certificate (or other connection document)."
+  },
+  {
+    "id": 80,
+    "category": "customs",
+    "question_uz": "Oziq-ovqat mahsulotlari xalqaro pochta orqali keladimi?",
+    "question_ru": "Приходят ли продукты питания через международную почту?",
+    "question_en": "Do food products come through international post?",
+    "answer_uz": "Oziq-ovqat — katta cheklovlar bor: 1) Tez buziluvchi mahsulotlar — taqiqlangan, 2) Quruq mahsulotlar (choy, kofe, qovoqtuxum) — mumkin ammo sertifikat kerak bo'lishi mumkin, 3) Hayvon mahsulotlari — vaterinar sertifikat kerak. 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Продукты — большие ограничения: 1) Скоропортящиеся — запрещены, 2) Сухие (чай, кофе, орехи) — можно, но нужен сертификат, 3) Животные продукты — ветеринарный сертификат. Уточните 1165.",
+    "answer_en": "Food — major restrictions: 1) Perishables — prohibited, 2) Dry goods (tea, coffee, nuts) — OK but may need certificate, 3) Animal products — veterinary certificate. Check via 1165."
+  },
+  {
+    "id": 81,
+    "category": "delay",
+    "question_uz": "Pochta ish kunlari haqida (shanba, yakshanba)",
+    "question_ru": "Работает ли почта в выходные дни (суббота, воскресенье)?",
+    "question_en": "Does post office work on weekends (Saturday, Sunday)?",
+    "answer_uz": "Ko'pchilik bo'limlar: Shanba — yarim kunda ishlaydi (9:00–13:00). Yakshanba — yopiq. Markaziy yirik bo'limlar shanba kuni to'liq ishlashi mumkin. Bayram kunlari — yopiq. Yetkazish ham dam olish kunlarida to'xtashi mumkin.",
+    "answer_ru": "Большинство отделений: Суббота — до обеда (9:00–13:00). Воскресенье — закрыто. Центральные крупные — могут работать в субботу полный день. Праздники — закрыто. Доставка в выходные также останавливается.",
+    "answer_en": "Most branches: Saturday — until noon (9:00–13:00). Sunday — closed. Central large branches may work full Saturday. Holidays — closed. Delivery also stops on weekends."
+  },
+  {
+    "id": 82,
+    "category": "status",
+    "question_uz": "Jo'natmam qayerdan kela yotganini qanday bilaman?",
+    "question_ru": "Как узнать откуда идёт моя посылка?",
+    "question_en": "How do I find out where my parcel is coming from?",
+    "answer_uz": "Tracking saytida jo'natmangizning kelib chiqish manzili ko'rinadi. Birinchi voqea (eng eski) — jo'natma qabul qilingan joy. Agar xalqaro bo'lsa — jo'natuvchi mamlakatning pochta tizimida ham kuzatish mumkin.",
+    "answer_ru": "На сайте трекинга виден адрес отправления. Первое событие (самое старое) — место принятия. Если международная — можно также отследить в почтовой системе страны отправителя.",
+    "answer_en": "Tracking site shows origin address. First event (oldest) — acceptance location. If international — can also track in sender country's postal system."
+  },
+  {
+    "id": 83,
+    "category": "pickup",
+    "question_uz": "Jo'natmamni olish uchun bo'limga qancha masofa yurishim kerak?",
+    "question_ru": "Как далеко мне до отделения для получения посылки?",
+    "question_en": "How far is the branch where I can pick up my parcel?",
+    "answer_uz": "Tracking da ko'rsatilgan bo'lim sizning manzil hududingizga eng yaqin bo'limdir. Bo'lim manzilini bilish uchun: 1) Tracking saytida voqealar bo'limini ko'ring, 2) 1165 ga qo'ng'iroq qiling, 3) https://uz.post/uz/map da barcha bo'limlar xaritasida ko'ring.",
+    "answer_ru": "Отделение в трекинге — ближайшее к вашему адресу. Чтобы узнать адрес: 1) Смотрите раздел событий на сайте, 2) Позвоните 1165, 3) Карта всех отделений: https://uz.post/uz/map.",
+    "answer_en": "Branch shown in tracking is nearest to your address. To find address: 1) Check events section on tracking site, 2) Call 1165, 3) Map of all branches: https://uz.post/uz/map."
+  },
+  {
+    "id": 84,
+    "category": "customs",
+    "question_uz": "Vino (alkogol) jo'natish mumkinmi?",
+    "question_ru": "Можно ли отправить вино (алкоголь)?",
+    "question_en": "Can wine (alcohol) be sent?",
+    "answer_uz": "Alkogol mahsulotlari — xalqaro pochta orqali jo'natish qat'iyan taqiqlangan. O'zbekistonga import qilish uchun maxsus litsenziya va ruxsat kerak. Pochta orqali alkogol yuborish — qonunbuzarlik.",
+    "answer_ru": "Алкоголь — категорически запрещён к пересылке через международную почту. Для импорта в Узбекистан нужна специальная лицензия. Алкоголь по почте — нарушение закона.",
+    "answer_en": "Alcohol — strictly prohibited in international post. Importing to Uzbekistan requires special license. Sending alcohol by post — illegal."
+  },
+  {
+    "id": 85,
+    "category": "status",
+    "question_uz": "Jo'natma 'Yo'nalishga jo'natildi' status nima?",
+    "question_ru": "Статус 'Отправлено по направлению' что значит?",
+    "question_en": "What does 'Sent in direction' status mean?",
+    "answer_uz": "'Yo'nalishga jo'natildi' — jo'natmangiz saralash markazidan chiqib, siz manzilga yo'l olgan. Bu yaxshi belgi! 1-3 kun ichida keyingi bo'limga yetib boradi.",
+    "answer_ru": "'Отправлено по направлению' — посылка вышла из сортировочного центра и движется к вам. Хороший знак! 1-3 дня до следующего отделения.",
+    "answer_en": "'Sent in direction' — parcel left the sorting center heading your way. Good sign! 1-3 days to the next branch."
+  },
+  {
+    "id": 86,
+    "category": "delay",
+    "question_uz": "Qishda pochta ishlashi sustlashadi?",
+    "question_ru": "Замедляется ли работа почты зимой?",
+    "question_en": "Does post office slow down in winter?",
+    "answer_uz": "Qishda kechikishlar mumkin: 1) Qor va yomg'ir — transport muammolari, 2) Tog'li hududlar (Surxondaryo, Farg'ona vodiysi) — yo'llar qiyin, 3) Yangi yil bayramlari — katta hajm. 1-2 kun qo'shimcha vaqt hisoblash tavsiya etiladi.",
+    "answer_ru": "Зимой возможны задержки: 1) Снег и дождь — транспортные проблемы, 2) Горные районы — трудные дороги, 3) Новогодние праздники — большой объём. +1-2 дня к обычному сроку.",
+    "answer_en": "Winter delays possible: 1) Snow and rain — transport issues, 2) Mountain areas — difficult roads, 3) New Year holidays — high volume. Add 1-2 extra days."
+  },
+  {
+    "id": 87,
+    "category": "customs",
+    "question_uz": "Qimmatbaho toshlar (oltin, javohirlar) jo'natsam bo'ladimi?",
+    "question_ru": "Можно ли отправить драгоценные камни (золото, украшения)?",
+    "question_en": "Can precious stones (gold, jewelry) be sent?",
+    "answer_uz": "Qimmatbaho metallar va toshlar — jo'natish mumkin ammo: 1) To'liq e'lon qilish shart, 2) Bojxona to'lovi yuqori, 3) Maxsus sug'urta tavsiya etiladi, 4) Ba'zi mamlakatlar bu tovarlarni qabul qilmaydi. 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Драгметаллы и камни — можно, но: 1) Обязательная полная декларация, 2) Высокая пошлина, 3) Рекомендуется спецстрахование, 4) Некоторые страны не принимают. Детали — 1165.",
+    "answer_en": "Precious metals and stones — possible but: 1) Full declaration mandatory, 2) High duty, 3) Special insurance recommended, 4) Some countries don't accept. Details — 1165."
+  },
+  {
+    "id": 88,
+    "category": "status",
+    "question_uz": "Jo'natmam 'Qayta yo'naltirildi' deyapti, nima bu?",
+    "question_ru": "Статус 'Перенаправлено' — что это?",
+    "question_en": "Status 'Redirected' — what does this mean?",
+    "answer_uz": "'Qayta yo'naltirildi' — jo'natmangiz boshqa manzilga o'tkazildi. Sabab: manzil noto'g'ri, bo'lim yopilgan, yoki logistik sabab. 1165 ga qo'ng'iroq qilib yangi manzilni bilib oling.",
+    "answer_ru": "'Перенаправлено' — посылка перенаправлена на другой адрес. Причина: неверный адрес, закрытое отделение или логистика. Позвоните 1165 для нового адреса.",
+    "answer_en": "'Redirected' — parcel sent to a different address. Reason: wrong address, closed branch, or logistics. Call 1165 for new address."
+  },
+  {
+    "id": 89,
+    "category": "no_sms",
+    "question_uz": "SMS kelmadi va bo'limga bordim — jo'natmam topilmadi, nega?",
+    "question_ru": "SMS не пришло, пришёл в отделение — посылки нет, почему?",
+    "question_en": "No SMS, went to branch — parcel not there, why?",
+    "answer_uz": "Bu holatda: 1) Tracking da 'Bo'limda' degan status bo'lishi kerak — agar boshqa bo'lsa, hali yetmagan, 2) Boshqa bo'limga tushgan bo'lishi mumkin — 1165 ga qo'ng'iroq qiling, 3) Tizimda texnik xato — 1165 orqali aniqlashtiring.",
+    "answer_ru": "В этом случае: 1) Трекинг должен показывать 'В отделении' — если другой статус, ещё не прибыло, 2) Могла попасть в другое отделение — 1165, 3) Техническая ошибка — уточните через 1165.",
+    "answer_en": "In this case: 1) Tracking must show 'At branch' — if different status, not yet arrived, 2) May be at a different branch — call 1165, 3) Technical error — clarify via 1165."
+  },
+  {
+    "id": 90,
+    "category": "pickup",
+    "question_uz": "Jo'natmani olishda muammo bo'lsa qaerga murojaat qilaman?",
+    "question_ru": "Куда обратиться если проблемы с получением посылки?",
+    "question_en": "Where to contact if problems picking up parcel?",
+    "answer_uz": "Muammo bo'lsa: 1) Bo'lim xodimlari bilan gaplashing, 2) 1165 qo'ng'iroq markazi (24/7), 3) info@pochta.uz rasmiy email, 4) UzPost rasmiy Telegram kanali. Trek raqamingizni va shaxsiy hujjatingizni tayyorlab boring.",
+    "answer_ru": "При проблемах: 1) Поговорите с сотрудниками отделения, 2) 1165 (24/7), 3) info@pochta.uz, 4) Официальный Telegram-канал UzPost. Держите трек-номер и документы наготове.",
+    "answer_en": "If problems: 1) Talk with branch staff, 2) 1165 (24/7), 3) info@pochta.uz, 4) UzPost official Telegram. Have tracking number and ID documents ready."
+  },
+  {
+    "id": 91,
+    "category": "customs",
+    "question_uz": "Yelim (super glue va hokazo) jo'natish mumkinmi?",
+    "question_ru": "Можно ли отправить клей (суперклей и т.д.)?",
+    "question_en": "Can glue (super glue etc.) be sent?",
+    "answer_uz": "Ba'zi yelim turlari — yonuvchi moddalar sifatida havo orqali cheklangan. Standart kanselyariya yelimlari (PVA) — mumkin. Super glue, yonuvchi yelimlar — quruqlik orqali jo'nating. Tafsilot uchun 1165.",
+    "answer_ru": "Некоторые виды клея — горючие, ограничены по авиа. Обычный канцелярский клей (ПВА) — можно. Суперклей, горючие — наземным путём. Детали — 1165.",
+    "answer_en": "Some glues — flammable, restricted by air. Standard office glue (PVA) — OK. Super glue, flammable — ground route. Details — 1165."
+  },
+  {
+    "id": 92,
+    "category": "delay",
+    "question_uz": "Farg'onadan Toshkentga jo'natma necha kunda yetadi?",
+    "question_ru": "Сколько дней идёт посылка из Ферганы в Ташкент?",
+    "question_en": "How many days from Fergana to Tashkent?",
+    "answer_uz": "Farg'onadan Toshkentga: Bir Qadam — 1-2 kun. Standart — 2-3 kun. Farg'ona vodiysi Toshkentga nisbatan yaxshi ulangan, kechikishlar kam.",
+    "answer_ru": "Из Ферганы в Ташкент: Bir Qadam — 1-2 дня. Стандарт — 2-3 дня. Ферганская долина хорошо связана с Ташкентом, задержки редки.",
+    "answer_en": "Fergana to Tashkent: Bir Qadam — 1-2 days. Standard — 2-3 days. Fergana Valley is well connected to Tashkent, delays rare."
+  },
+  {
+    "id": 93,
+    "category": "status",
+    "question_uz": "Jo'natma to'lovim uchun naqd pul kerakmi?",
+    "question_ru": "Нужны ли наличные для оплаты при получении посылки?",
+    "question_en": "Do I need cash to pay when picking up?",
+    "answer_uz": "To'lov bo'yicha: 1) Agar 'Olishda to'lov' (cash on delivery) tanlangan bo'lsa — naqd pul yoki karta kerak, 2) Agar oldindan to'langan bo'lsa — hech narsa kerak emas. Trek raqamingizni tekshiring — to'lov talablari ko'rinadi.",
+    "answer_ru": "По оплате: 1) Если выбрана 'Оплата при получении' — нужны наличные или карта, 2) Если предоплата — ничего не нужно. Проверьте трек — там указаны требования к оплате.",
+    "answer_en": "Payment: 1) If 'Cash on delivery' chosen — cash or card needed, 2) If prepaid — nothing needed. Check tracking — payment requirements are shown."
+  },
+  {
+    "id": 94,
+    "category": "customs",
+    "question_uz": "Pochta orqali pul yuborish mumkinmi?",
+    "question_ru": "Можно ли отправить деньги через почту?",
+    "question_en": "Can I send money through the post?",
+    "answer_uz": "Naqd pul jo'natish — xalqaro pochta orqali qat'iyan taqiqlangan va xavfli. Pul o'tkazish uchun: Western Union, MoneyGram, bank o'tkazmalari. UzPost ham pul o'tkazish xizmatini taklif qiladi — bo'limda so'rang.",
+    "answer_ru": "Наличные деньги — строго запрещены и опасны. Для перевода: Western Union, MoneyGram, банковские переводы. UzPost также предлагает услугу денежных переводов — спросите в отделении.",
+    "answer_en": "Cash money — strictly prohibited and dangerous. For transfer: Western Union, MoneyGram, bank transfers. UzPost also offers money transfer service — ask at the branch."
+  },
+  {
+    "id": 95,
+    "category": "lost",
+    "question_uz": "Jo'natma buzilgan holda keldi, nima qilish kerak?",
+    "question_ru": "Посылка пришла повреждённой, что делать?",
+    "question_en": "Parcel arrived damaged, what to do?",
+    "answer_uz": "Jo'natma buzilgan bo'lsa: 1) OLISHDAN OLDIN — bo'lim xodimi oldida akt rasmiylashtiring, 2) Fotosuratga oling, 3) Taqdim etilgan hujjatlar bilan 1165 yoki info@pochta.uz ga murojaat qiling. Kompensatsiya imkoni bor (sug'urta bo'lsa).",
+    "answer_ru": "При повреждении: 1) ДО ПОЛУЧЕНИЯ — составьте акт с сотрудником отделения, 2) Сфотографируйте, 3) С документами — 1165 или info@pochta.uz. Возможна компенсация (при страховке).",
+    "answer_en": "If damaged: 1) BEFORE ACCEPTING — file an act with branch staff, 2) Take photos, 3) With documents — 1165 or info@pochta.uz. Compensation possible (if insured)."
+  },
+  {
+    "id": 96,
+    "category": "delay",
+    "question_uz": "Samarqanddan Buxoroga jo'natma necha kun?",
+    "question_ru": "Сколько дней из Самарканда в Бухару?",
+    "question_en": "How many days from Samarkand to Bukhara?",
+    "answer_uz": "Samarqanddan Buxoroga: Bir Qadam — 1-2 kun. Standart — 2-3 kun. Ikkala shahar ham Samarqand-Buxoro yo'nalishida yaxshi ulangan.",
+    "answer_ru": "Из Самарканда в Бухару: Bir Qadam — 1-2 дня. Стандарт — 2-3 дня. Оба города хорошо связаны.",
+    "answer_en": "Samarkand to Bukhara: Bir Qadam — 1-2 days. Standard — 2-3 days. Both cities are well connected."
+  },
+  {
+    "id": 97,
+    "category": "status",
+    "question_uz": "Trek raqam bilan jo'natmani to'xtatish yoki bekor qilish mumkinmi?",
+    "question_ru": "Можно ли остановить или отменить отправление по трек-номеру?",
+    "question_en": "Can I stop or cancel a shipment using the tracking number?",
+    "answer_uz": "Jo'natma yo'lda bo'lsa to'xtatib bo'lmaydi. Agar hali jo'natilmagan bo'lsa — jo'natuvchi bo'limga borib bekor qilishi mumkin. Jo'natilgan bo'lsa — 1165 ga qo'ng'iroq qilib imkoniyatlarni so'rang.",
+    "answer_ru": "Остановить в пути — нельзя. Если ещё не отправлено — отправитель может отменить в отделении. Если отправлено — позвоните 1165 для вариантов.",
+    "answer_en": "Cannot stop in transit. If not yet sent — sender can cancel at the branch. If already sent — call 1165 for options."
+  },
+  {
+    "id": 98,
+    "category": "customs",
+    "question_uz": "Qimmat soatlar (Rolex kabi) jo'natishda muammo bo'ladimi?",
+    "question_ru": "Будут ли проблемы с отправкой дорогих часов (например Rolex)?",
+    "question_en": "Will there be problems sending expensive watches (like Rolex)?",
+    "answer_uz": "Qimmat soatlar — jo'natish mumkin ammo: 1) To'liq qiymatini e'lon qilish kerak, 2) 200 USD dan oshsa bojxona to'lovi, 3) Maxsus sug'urta zarur, 4) Maxsus himoyali qadoqlash kerak. 1165 orqali oldindan so'rang.",
+    "answer_ru": "Дорогие часы — можно, но: 1) Полная декларация стоимости, 2) Свыше $200 — пошлина, 3) Специальное страхование, 4) Защитная упаковка. Уточните через 1165 заранее.",
+    "answer_en": "Expensive watches — possible but: 1) Full value declaration, 2) Over $200 — duty, 3) Special insurance, 4) Protective packaging. Check via 1165 in advance."
+  },
+  {
+    "id": 99,
+    "category": "no_sms",
+    "question_uz": "Telefon raqamim o'zgardi, SMS eski raqamga ketadimi?",
+    "question_ru": "Мой номер изменился, SMS уйдёт на старый номер?",
+    "question_en": "My number changed, will SMS go to old number?",
+    "answer_uz": "SMS jo'natuvchi ko'rsatgan raqamga ketadi. Agar siz oluvchi bo'lsangiz va raqam o'zgardi — 1165 ga qo'ng'iroq qilib raqamni yangilashni so'rang. Lekin tracking saytida ham kuzatish mumkin — SMS shart emas.",
+    "answer_ru": "SMS идёт на номер, указанный отправителем. Если вы получатель и номер изменился — позвоните 1165 для обновления. Но трекинг работает без SMS.",
+    "answer_en": "SMS goes to number provided by sender. If you're recipient and number changed — call 1165 to update. But tracking works without SMS."
+  },
+  {
+    "id": 100,
+    "category": "status",
+    "question_uz": "Kecha trackingda bo'limda ko'rsatdi, lekin bugun kelmadim, hali u yerda turishi mumkinmi?",
+    "question_ru": "Вчера трекинг показал 'в отделении', но не смог прийти, всё ещё там?",
+    "question_en": "Yesterday tracking showed 'at branch', couldn't come, is it still there?",
+    "answer_uz": "Ha, jo'natmangiz hali bo'limda bo'lishi mumkin — 30 kun saqlanadi. Ammo tracking statusini qayta tekshiring: agar hali ham 'Bo'limda' ko'rinsa — hali u yerda. Pasportingizni olib boring. Agar status o'zgangan bo'lsa — 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Да, посылка скорее всего ещё в отделении — хранят 30 дней. Но перепроверьте трекинг: если всё ещё 'В отделении' — она там. Возьмите паспорт. Если статус изменился — позвоните 1165.",
+    "answer_en": "Yes, parcel likely still at branch — stored 30 days. But recheck tracking: if still 'At branch' — it's there. Take your passport. If status changed — call 1165."
+  },
+  {
+    "id": 101,
+    "category": "status",
+    "question_uz": "Jo'natmamni qanday kuzataman",
+    "question_ru": "Как отследить своё отправление?",
+    "question_en": "How do I track my shipment?",
+    "answer_uz": "Jo'natmani kuzatish uchun tracking koddan foydalaning. https://uz.post/uz/tracking saytida tekshirishingiz mumkin.",
+    "answer_ru": "Используйте трек-код на сайте https://uz.post/uz/tracking.",
+    "answer_en": "Use your tracking code at https://uz.post/uz/tracking."
+  },
+  {
+    "id": 102,
+    "category": "status",
+    "question_uz": "Qaysi jo'natmalarni kuzatish mumkin",
+    "question_ru": "Какие отправления можно отслеживать?",
+    "question_en": "Which shipments can be tracked?",
+    "answer_uz": "Faqat tracking kodi mavjud bo'lgan jo'natmalar kuzatiladi. Oddiy xatlar, banderollar va otkritkalar kuzatilmaydi.",
+    "answer_ru": "Только отправления с трек-кодом. Простые письма и открытки не отслеживаются.",
+    "answer_en": "Only shipments with a tracking code. Simple letters and postcards cannot be tracked."
+  },
+  {
+    "id": 103,
+    "category": "status",
+    "question_uz": "Nega mening jo'natmam trackingda chiqmayapti",
+    "question_ru": "Почему моя посылка не отображается в трекинге?",
+    "question_en": "Why isn't my shipment showing in tracking?",
+    "answer_uz": "Jo'natma oddiy bo'lishi yoki hali tizimga tushmagan bo'lishi mumkin. Odatda 1-2 kun ichida tizimda paydo bo'ladi.",
+    "answer_ru": "Посылка может быть простой или ещё не введена в систему. Обычно появляется в течение 1-2 дней.",
+    "answer_en": "The shipment may be simple or not yet entered in the system. Usually appears within 1-2 days."
+  },
+  {
+    "id": 104,
+    "category": "eta",
+    "question_uz": "Jo'natma qancha vaqtda yetib boradi",
+    "question_ru": "За сколько времени доходит отправление?",
+    "question_en": "How long does a shipment take to arrive?",
+    "answer_uz": "Respublika ichida odatda 1-3 kun. Uzoq hududlarga 3-5 kun davom etishi mumkin. Tezkor xizmat orqali 1 kunda yetkaziladi.",
+    "answer_ru": "По республике обычно 1-3 дня, в отдалённые районы 3-5 дней. Экспресс — 1 день.",
+    "answer_en": "Within the country usually 1-3 days, remote areas 3-5 days. Express — 1 day."
+  },
+  {
+    "id": 105,
+    "category": "pickup",
+    "question_uz": "Jo'natma pochta bo'limida qancha vaqt saqlanadi",
+    "question_ru": "Сколько времени хранится посылка в отделении?",
+    "question_en": "How long is a parcel stored at the branch?",
+    "answer_uz": "Jo'natmalar pochta bo'limida odatda 30 kun saqlanadi. Keyin qaytarilishi mumkin.",
+    "answer_ru": "Посылки хранятся в отделении обычно 30 дней, затем возвращаются.",
+    "answer_en": "Parcels are stored at the branch for 30 days, then returned."
+  },
+  {
+    "id": 106,
+    "category": "pickup",
+    "question_uz": "Jo'natmani olish uchun nima kerak",
+    "question_ru": "Что нужно для получения посылки?",
+    "question_en": "What is needed to pick up a parcel?",
+    "answer_uz": "Pasport yoki ID karta kerak bo'ladi. Boshqa shaxs ham o'z hujjati bilan olib ketishi mumkin.",
+    "answer_ru": "Нужен паспорт или ID-карта. Другой человек тоже может получить, предъявив свой документ.",
+    "answer_en": "Passport or ID card required. Another person can also pick it up with their document."
+  },
+  {
+    "id": 107,
+    "category": "faq_tarif",
+    "question_uz": "Eng arzon jo'natma turi qaysi",
+    "question_ru": "Какой вид отправления самый дешёвый?",
+    "question_en": "Which type of shipment is cheapest?",
+    "answer_uz": "Oddiy otkritka va oddiy xat eng arzon hisoblanadi, lekin ular tracking qilinmaydi.",
+    "answer_ru": "Обычная открытка и обычное письмо самые дешёвые, но без трекинга.",
+    "answer_en": "Regular postcard and letter are cheapest, but without tracking."
+  },
+  {
+    "id": 108,
+    "category": "faq_service",
+    "question_uz": "Posilka yuborish shartlari qanday",
+    "question_ru": "Каковы условия отправки посылки?",
+    "question_en": "What are the conditions for sending a parcel?",
+    "answer_uz": "Posilka 10 kg yoki 15 kg gacha bo'lishi mumkin. Ichiga turli buyumlar joylash mumkin va odatda pochta bo'limigacha yetkaziladi.",
+    "answer_ru": "Посылка до 10 кг (до 15 кг неделимая). Доставляется до почтового отделения.",
+    "answer_en": "Parcel up to 10 kg (15 kg undivided). Delivered to the post office."
+  },
+  {
+    "id": 109,
+    "category": "faq_service",
+    "question_uz": "Bir Qadam xizmati nima",
+    "question_ru": "Что такое услуга «Bir Qadam»?",
+    "question_en": "What is the 'Bir Qadam' service?",
+    "answer_uz": "Bu tezkor yetkazib berish xizmati bo'lib, 1 kunda yetkazadi va 20 kg gacha jo'natmalarni qabul qiladi.",
+    "answer_ru": "Это экспресс-доставка за 1 день, принимает до 20 кг.",
+    "answer_en": "Express delivery in 1 day, accepts up to 20 kg."
+  },
+  {
+    "id": 110,
+    "category": "faq_service",
+    "question_uz": "Kuryer orqali jo'natma yuborish mumkinmi",
+    "question_ru": "Можно ли отправить через курьера?",
+    "question_en": "Can I send via courier?",
+    "answer_uz": "Ha, kuryer xizmatidan foydalanib jo'natmani yuborish mumkin. Kuryer sizdan olib ketadi va manzilga yetkazadi.",
+    "answer_ru": "Да, курьер заберёт у вас и доставит по адресу.",
+    "answer_en": "Yes, the courier will pick up from you and deliver to the address."
+  },
+  {
+    "id": 111,
+    "category": "status",
+    "question_uz": "Tracking kodimni qayerdan olaman",
+    "question_ru": "Где взять трек-код?",
+    "question_en": "Where do I get the tracking code?",
+    "answer_uz": "Tracking kod jo'natma yuborilganda beriladi va chek yoki kvitansiyada ko'rsatiladi.",
+    "answer_ru": "Трек-код выдаётся при отправке и указан в чеке или квитанции.",
+    "answer_en": "The tracking code is given when sending and is on the receipt."
+  },
+  {
+    "id": 112,
+    "category": "status",
+    "question_uz": "Tracking kod nechta belgidan iborat bo'ladi",
+    "question_ru": "Сколько символов в трек-коде?",
+    "question_en": "How many characters is a tracking code?",
+    "answer_uz": "Tracking kod odatda harf va raqamlardan iborat bo'ladi, masalan RR123456789UZ.",
+    "answer_ru": "Трек-код состоит из букв и цифр, например RR123456789UZ.",
+    "answer_en": "Tracking code contains letters and numbers, e.g. RR123456789UZ."
+  },
+  {
+    "id": 113,
+    "category": "status",
+    "question_uz": "Jo'natma statusi yangilanmayapti nima qilish kerak",
+    "question_ru": "Что делать если статус не обновляется?",
+    "question_en": "What to do if status isn't updating?",
+    "answer_uz": "Ba'zan status yangilanishi 1-2 kun vaqt oladi. Agar uzoq vaqt o'zgarmasa, pochta bo'limiga murojaat qiling.",
+    "answer_ru": "Иногда обновление занимает 1-2 дня. Если долго не меняется — обратитесь в почтовое отделение.",
+    "answer_en": "Sometimes updating takes 1-2 days. If unchanged for long — contact the post office."
+  },
+  {
+    "id": 114,
+    "category": "faq_service",
+    "question_uz": "Jo'natma noto'g'ri manzilga ketib qolsa nima bo'ladi",
+    "question_ru": "Что будет если посылка отправлена не по тому адресу?",
+    "question_en": "What happens if parcel sent to wrong address?",
+    "answer_uz": "Agar xato aniqlansa, jo'natmani qayta yo'naltirish yoki qaytarish uchun pochta orqali ariza berish mumkin.",
+    "answer_ru": "Если ошибка обнаружена, можно переадресовать или вернуть через заявление.",
+    "answer_en": "If error found, it can be redirected or returned via application."
+  },
+  {
+    "id": 115,
+    "category": "faq_service",
+    "question_uz": "Manzilni o'zgartirish mumkinmi",
+    "question_ru": "Можно ли изменить адрес?",
+    "question_en": "Can I change the address?",
+    "answer_uz": "Ha, ariza orqali jo'natma manzilini o'zgartirish mumkin. Bu xizmat pullik bo'lishi mumkin.",
+    "answer_ru": "Да, адрес можно изменить через заявление. Услуга может быть платной.",
+    "answer_en": "Yes, the address can be changed via application. Service may be paid."
+  },
+  {
+    "id": 116,
+    "category": "faq_service",
+    "question_uz": "Jo'natmani qaytarish mumkinmi",
+    "question_ru": "Можно ли вернуть отправление?",
+    "question_en": "Can a shipment be returned?",
+    "answer_uz": "Ha, agar jo'natma yetkazilmagan bo'lsa, uni jo'natuvchiga qaytarish mumkin.",
+    "answer_ru": "Да, если посылка не доставлена, её можно вернуть отправителю.",
+    "answer_en": "Yes, if the parcel isn't delivered, it can be returned to the sender."
+  },
+  {
+    "id": 117,
+    "category": "faq_service",
+    "question_uz": "Jo'natmani qadoqlash kerakmi",
+    "question_ru": "Нужно ли упаковывать отправление?",
+    "question_en": "Does the shipment need to be packaged?",
+    "answer_uz": "Ha, jo'natma xavfsiz yetib borishi uchun uni to'g'ri qadoqlash tavsiya etiladi.",
+    "answer_ru": "Да, для безопасной доставки рекомендуется правильная упаковка.",
+    "answer_en": "Yes, proper packaging is recommended for safe delivery."
+  },
+  {
+    "id": 118,
+    "category": "faq_service",
+    "question_uz": "Kuryer xizmatida maksimal og'irlik qancha",
+    "question_ru": "Какой максимальный вес для курьерской доставки?",
+    "question_en": "What is the maximum weight for courier delivery?",
+    "answer_uz": "Kuryer orqali jo'natmalar odatda 20 kg gacha qabul qilinadi.",
+    "answer_ru": "Курьерские отправления принимаются до 20 кг.",
+    "answer_en": "Courier shipments are accepted up to 20 kg."
+  },
+  {
+    "id": 119,
+    "category": "status",
+    "question_uz": "Jo'natma yuborilgan lekin trackingda chiqmayapti nima sabab",
+    "question_ru": "Посылка отправлена, но в трекинге не отображается, почему?",
+    "question_en": "Parcel sent but not showing in tracking, why?",
+    "answer_uz": "Jo'natma darhol tizimga tushmasligi mumkin. Odatda 1-2 kun ichida trackingda ko'rinadi.",
+    "answer_ru": "Посылка может не попасть в систему сразу. Обычно видна в течение 1-2 дней.",
+    "answer_en": "Parcel may not enter the system immediately. Usually visible within 1-2 days."
+  },
+  {
+    "id": 120,
+    "category": "status",
+    "question_uz": "Qabul qilindi statusi nimani anglatadi",
+    "question_ru": "Что означает статус «Принято»?",
+    "question_en": "What does 'Accepted' status mean?",
+    "answer_uz": "Bu jo'natma pochta bo'limi tomonidan qabul qilinganini bildiradi.",
+    "answer_ru": "Это значит, что посылка принята почтовым отделением.",
+    "answer_en": "This means the parcel has been accepted by the post office."
+  },
+  {
+    "id": 121,
+    "category": "status",
+    "question_uz": "Yo'lda statusi nimani anglatadi",
+    "question_ru": "Что означает статус «В пути»?",
+    "question_en": "What does 'In transit' status mean?",
+    "answer_uz": "Bu jo'natma manzilga yetkazilayotganini va hali yetib bormaganini bildiradi.",
+    "answer_ru": "Посылка в процессе доставки к адресату и ещё не прибыла.",
+    "answer_en": "The parcel is being delivered and has not yet arrived."
+  },
+  {
+    "id": 122,
+    "category": "status",
+    "question_uz": "Pochta bo'limiga yetib keldi statusi nimani anglatadi",
+    "question_ru": "Что означает статус «Прибыло в почтовое отделение»?",
+    "question_en": "What does 'Arrived at post office' status mean?",
+    "answer_uz": "Jo'natma qabul qiluvchi hududdagi pochta bo'limiga yetib kelgan va olib ketishga tayyor.",
+    "answer_ru": "Посылка прибыла в отделение в районе адресата и готова к выдаче.",
+    "answer_en": "The parcel arrived at the branch in the recipient's area and is ready for pickup."
+  },
+  {
+    "id": 123,
+    "category": "status",
+    "question_uz": "Topshirildi statusi nimani anglatadi",
+    "question_ru": "Что означает статус «Вручено»?",
+    "question_en": "What does 'Delivered' status mean?",
+    "answer_uz": "Jo'natma qabul qiluvchiga muvaffaqiyatli topshirilganini bildiradi.",
+    "answer_ru": "Посылка успешно передана получателю.",
+    "answer_en": "The parcel was successfully handed to the recipient."
+  },
+  {
+    "id": 124,
+    "category": "delay",
+    "question_uz": "Jo'natma kechiksa nima qilish kerak",
+    "question_ru": "Что делать если посылка задержалась?",
+    "question_en": "What to do if the parcel is delayed?",
+    "answer_uz": "Avvalo tracking orqali tekshiring. Agar uzoq vaqt o'zgarish bo'lmasa, pochta bo'limiga murojaat qiling.",
+    "answer_ru": "Сначала проверьте через трекинг. Если долго нет изменений — обратитесь в почтовое отделение.",
+    "answer_en": "First check via tracking. If no changes for long — contact the post office."
+  },
+  {
+    "id": 125,
+    "category": "delay",
+    "question_uz": "Jo'natma nega kechikadi",
+    "question_ru": "Почему посылка задерживается?",
+    "question_en": "Why is a parcel delayed?",
+    "answer_uz": "Yuklama ko'pligi, bayram kunlari, ob-havo yoki logistika sababli kechikish bo'lishi mumkin.",
+    "answer_ru": "Причиной могут быть высокая нагрузка, праздники, погода или логистика.",
+    "answer_en": "High volume, holidays, weather or logistics can cause delays."
+  },
+  {
+    "id": 126,
+    "category": "lost",
+    "question_uz": "Jo'natma buzilib kelsa nima qilish kerak",
+    "question_ru": "Что делать если посылка пришла повреждённой?",
+    "question_en": "What to do if parcel arrived damaged?",
+    "answer_uz": "Pochta bo'limida darhol murojaat qilib dalolatnoma tuzdirish kerak.",
+    "answer_ru": "Нужно сразу обратиться в почтовое отделение и составить акт.",
+    "answer_en": "Go to the post office immediately and file a damage report."
+  },
+  {
+    "id": 127,
+    "category": "faq_service",
+    "question_uz": "Jo'natma ichidagi buyumlar tekshiriladimi",
+    "question_ru": "Проверяется ли содержимое посылки?",
+    "question_en": "Is the parcel contents inspected?",
+    "answer_uz": "Ha, xavfsizlik va qoidalar asosida ayrim hollarda tekshiruv bo'lishi mumkin.",
+    "answer_ru": "Да, в некоторых случаях может быть проверка по соображениям безопасности.",
+    "answer_en": "Yes, in some cases inspection may occur for security reasons."
+  },
+  {
+    "id": 128,
+    "category": "faq_service",
+    "question_uz": "Qanday buyumlarni yuborish mumkin emas",
+    "question_ru": "Что нельзя отправлять по почте?",
+    "question_en": "What cannot be sent by post?",
+    "answer_uz": "Portlovchi, xavfli va qonun bilan taqiqlangan buyumlarni yuborish mumkin emas.",
+    "answer_ru": "Нельзя отправлять взрывчатые, опасные и запрещённые законом предметы.",
+    "answer_en": "Explosives, hazardous and legally prohibited items cannot be sent."
+  },
+  {
+    "id": 129,
+    "category": "faq_service",
+    "question_uz": "Pochta qadoqlash materialini beradimi",
+    "question_ru": "Предоставляет ли почта упаковочные материалы?",
+    "question_en": "Does the post office provide packaging materials?",
+    "answer_uz": "Ha, qo'shimcha to'lov evaziga qadoqlash materiallari taqdim etilishi mumkin.",
+    "answer_ru": "Да, упаковочные материалы предоставляются за дополнительную плату.",
+    "answer_en": "Yes, packaging materials are provided for an additional fee."
+  },
+  {
+    "id": 130,
+    "category": "faq_service",
+    "question_uz": "Gibrid pochta nima",
+    "question_ru": "Что такое гибридная почта?",
+    "question_en": "What is hybrid mail?",
+    "answer_uz": "Gibrid pochta elektron shaklda yuborilib, qog'oz ko'rinishida yetkaziladigan xizmatdir. Narxi 9 850 so'm (3 varaqqacha), keyingi har bir varaq uchun 300 so'm qo'shiladi.",
+    "answer_ru": "Гибридная почта — это услуга, отправляемая электронно и доставляемая в бумажном виде. Стоимость 9 850 сум (до 3 листов), каждый следующий лист +300 сум.",
+    "answer_en": "Hybrid mail is sent electronically and delivered in paper form. Cost 9,850 sum (up to 3 pages), each extra page +300 sum."
+  },
+  {
+    "id": 131,
+    "category": "faq_service",
+    "question_uz": "EMS xizmati nima",
+    "question_ru": "Что такое EMS?",
+    "question_en": "What is EMS?",
+    "answer_uz": "EMS tezkor pochta xizmati bo'lib, hujjatlar va posilkalarni tez yetkazib beradi. Respublika ichida 250g gacha 39 000 so'm, 1 kg gacha posilka 54 000 so'm.",
+    "answer_ru": "EMS — служба экспресс-почты для быстрой доставки документов и посылок. Внутри республики: до 250г — 39 000 сум, посылка до 1 кг — 54 000 сум.",
+    "answer_en": "EMS is an express mail service for fast delivery of documents and parcels. Within republic: up to 250g — 39,000 sum, parcel up to 1 kg — 54,000 sum."
+  },
+  {
+    "id": 132,
+    "category": "faq_service",
+    "question_uz": "EMS orqali maksimal og'irlik qancha",
+    "question_ru": "Какой максимальный вес для EMS?",
+    "question_en": "What is the maximum weight for EMS?",
+    "answer_uz": "EMS jo'natmalari odatda 20 kg gacha qabul qilinadi.",
+    "answer_ru": "EMS принимает отправления до 20 кг.",
+    "answer_en": "EMS accepts shipments up to 20 kg."
+  },
+  {
+    "id": 133,
+    "category": "faq_service",
+    "question_uz": "Jo'natma topshirilgani haqida xabarnoma yuborish mumkinmi",
+    "question_ru": "Можно ли отправить уведомление о вручении?",
+    "question_en": "Can I send a delivery notification?",
+    "answer_uz": "Ha, jo'natma topshirilgani haqida xabarnoma yuborish mumkin. Oddiy xabarnoma 2 800 so'm, buyurtmali 3 300 so'm.",
+    "answer_ru": "Да, уведомление о вручении можно отправить. Обычное уведомление 2 800 сум, заказное 3 300 сум.",
+    "answer_en": "Yes, a delivery notification can be sent. Regular notification 2,800 sum, registered 3,300 sum."
+  },
+  {
+    "id": 134,
+    "category": "status",
+    "question_uz": "Jo'natmam qayerdaligini qanday bilsam bo'ladi",
+    "question_ru": "Где моя посылка?",
+    "question_en": "Where is my parcel?",
+    "answer_uz": "Tracking kod orqali https://uz.post/uz/tracking saytida tekshirishingiz mumkin.",
+    "answer_ru": "Проверьте трек-код на сайте https://uz.post/uz/tracking.",
+    "answer_en": "Check your tracking code at https://uz.post/uz/tracking."
+  },
+  {
+    "id": 135,
+    "category": "status",
+    "question_uz": "Jo'natma statusi necha kun o'zgarmasligi normal",
+    "question_ru": "Сколько дней статус может не меняться?",
+    "question_en": "How many days can status remain unchanged?",
+    "answer_uz": "Ba'zan status 1-3 kun o'zgarmasligi mumkin va bu normal holat.",
+    "answer_ru": "Иногда статус может не обновляться 1-3 дня — это нормально.",
+    "answer_en": "Status may not update for 1-3 days — this is normal."
+  },
+  {
+    "id": 136,
+    "category": "status",
+    "question_uz": "Jo'natmam boshqa shaharga ketib qolsa bu xatomi",
+    "question_ru": "Посылка попала в другой город — это ошибка?",
+    "question_en": "Parcel went to another city — is that a mistake?",
+    "answer_uz": "Ba'zan logistika sababli boshqa saralash markazlari orqali o'tadi, bu normal jarayon.",
+    "answer_ru": "Иногда по логистическим причинам посылка проходит через другие сортировочные центры — это нормально.",
+    "answer_en": "For logistical reasons parcels sometimes pass through other sorting centers — this is normal."
+  },
+  {
+    "id": 137,
+    "category": "status",
+    "question_uz": "Qabul qiluvchi bo'limiga yuborildi degani nima",
+    "question_ru": "Что означает «Отправлено в отделение получателя»?",
+    "question_en": "What does 'Sent to recipient's branch' mean?",
+    "answer_uz": "Jo'natma qabul qiluvchining hududidagi pochta bo'limiga yuborilganini bildiradi.",
+    "answer_ru": "Посылка отправлена в почтовое отделение района адресата.",
+    "answer_en": "The parcel has been sent to the recipient's local post office."
+  },
+  {
+    "id": 138,
+    "category": "status",
+    "question_uz": "Jo'natma yetib kelganini qanday bilaman",
+    "question_ru": "Как узнать что посылка прибыла?",
+    "question_en": "How do I know the parcel has arrived?",
+    "answer_uz": "Trackingda yetib kelgani yoki topshirilgani ko'rsatiladi. SMS ham kelishi mumkin.",
+    "answer_ru": "В трекинге появится статус прибытия или вручения. Может прийти SMS.",
+    "answer_en": "Tracking will show arrival or delivery status. An SMS may come."
+  },
+  {
+    "id": 139,
+    "category": "status",
+    "question_uz": "Tracking kod noto'g'ri chiqsa nima qilish kerak",
+    "question_ru": "Что делать если трек-код неправильный?",
+    "question_en": "What to do if tracking code is wrong?",
+    "answer_uz": "Kod to'g'ri kiritilganini tekshiring yoki jo'natuvchidan aniqlashtiring.",
+    "answer_ru": "Проверьте правильность кода или уточните у отправителя.",
+    "answer_en": "Check the code is correct or clarify with the sender."
+  },
+  {
+    "id": 140,
+    "category": "lost",
+    "question_uz": "Jo'natma topilmadi deb chiqsa nima sabab",
+    "question_ru": "Почему посылка не найдена?",
+    "question_en": "Why is parcel not found?",
+    "answer_uz": "Jo'natma hali tizimga kiritilmagan yoki tracking kod noto'g'ri bo'lishi mumkin.",
+    "answer_ru": "Посылка ещё не введена в систему или неверно указан трек-код.",
+    "answer_en": "Parcel not yet entered in system or tracking code is wrong."
+  },
+  {
+    "id": 141,
+    "category": "status",
+    "question_uz": "Jo'natmani boshqa odam kuzata oladimi",
+    "question_ru": "Может ли другой человек отслеживать посылку?",
+    "question_en": "Can another person track my parcel?",
+    "answer_uz": "Ha, tracking kod bo'lgan har qanday odam jo'natma holatini tekshirishi mumkin.",
+    "answer_ru": "Да, любой у кого есть трек-код может проверить статус.",
+    "answer_en": "Yes, anyone with the tracking code can check the status."
+  },
+  {
+    "id": 142,
+    "category": "faq_service",
+    "question_uz": "Jo'natmamni tracking orqali sug'urta holatini ko'rish mumkinmi",
+    "question_ru": "Можно ли отслеживать через Telegram?",
+    "question_en": "Can I track via Telegram?",
+    "answer_uz": "Yo'q, sug'urta ma'lumoti alohida beriladi. Sug'urta uchun e'lon qilingan qiymatning 0.05% undiriladi.",
+    "answer_ru": "Да, через Telegram-бот @uzpostbot можно отслеживать отправления в реальном времени.",
+    "answer_en": "Yes, via @uzpostbot on Telegram you can track shipments in real time."
+  },
+  {
+    "id": 143,
+    "category": "status",
+    "question_uz": "Jo'natmam tracking tarixini to'liq ko'rish mumkinmi",
+    "question_ru": "Посылка «закрыта» в трекинге — что это?",
+    "question_en": "Parcel 'closed' in tracking — what does that mean?",
+    "answer_uz": "Ha, barcha harakatlar ketma-ket ko'rsatiladi.",
+    "answer_ru": "Это означает, что процесс доставки завершён.",
+    "answer_en": "This means the delivery process is complete."
+  },
+  {
+    "id": 144,
+    "category": "no_sms",
+    "question_uz": "Jo'natmamni tracking orqali ogohlantirish olish mumkinmi",
+    "question_ru": "Посылка ещё не пришла, где она?",
+    "question_en": "Parcel hasn't arrived yet, where is it?",
+    "answer_uz": "Ba'zi xizmatlarda SMS yoki bildirishnoma mavjud bo'lishi mumkin. Telegram orqali ham @uzpostbot orqali kuzatish mumkin.",
+    "answer_ru": "Проверьте трек-код на сайте https://uz.post/uz/tracking для просмотра текущего статуса.",
+    "answer_en": "Check the tracking code at https://uz.post/uz/tracking for the current status."
+  },
+  {
+    "id": 145,
+    "category": "status",
+    "question_uz": "Jo'natmam trackingda yopilgan deb chiqdi bu nimani anglatadi",
+    "question_ru": "Посылка давно в пути, нормально ли это?",
+    "question_en": "Parcel in transit for long, is that normal?",
+    "answer_uz": "Bu jo'natma jarayoni yakunlanganini bildiradi.",
+    "answer_ru": "Иногда статус не обновляется 2-3 дня — это нормально.",
+    "answer_en": "Status may not update for 2-3 days — this is normal."
+  },
+  {
+    "id": 146,
+    "category": "status",
+    "question_uz": "Jo'natmam hali kelmadiku qani",
+    "question_ru": "Не получил заказ, где он?",
+    "question_en": "Haven't received my order, where is it?",
+    "answer_uz": "Jo'natmani tracking kod orqali https://uz.post/uz/tracking saytida tekshirib, hozirgi holatini ko'rishingiz mumkin.",
+    "answer_ru": "Проверьте трекинг. Если долго нет обновлений — обратитесь в 1165.",
+    "answer_en": "Check tracking. If no updates for long — contact 1165."
+  },
+  {
+    "id": 147,
+    "category": "status",
+    "question_uz": "Posilkam qayerda yuribdi hozir",
+    "question_ru": "В трекинге другой город — почему?",
+    "question_en": "Tracking shows different city — why?",
+    "answer_uz": "Tracking kod orqali jo'natmaning oxirgi joylashuvini tekshirishingiz mumkin.",
+    "answer_ru": "По логистике посылка проходит через сортировочные центры в разных городах.",
+    "answer_en": "For logistics, parcels pass through sorting centers in different cities."
+  },
+  {
+    "id": 148,
+    "category": "delay",
+    "question_uz": "Necha kundan beri o'zgarmayapti bu normalmi",
+    "question_ru": "«Получатель не найден» — что теперь будет?",
+    "question_en": "Recipient not found — what happens now?",
+    "answer_uz": "Ba'zan status 2-3 kun yangilanmasligi mumkin va bu odatiy holat.",
+    "answer_ru": "Потребуется повторная доставка или получение в отделении. Возьмите паспорт.",
+    "answer_en": "Redelivery or branch pickup required. Bring your passport."
+  },
+  {
+    "id": 149,
+    "category": "lost",
+    "question_uz": "Zakazim yo'qolib ketmadimi",
+    "question_ru": "Посылка возвращается?",
+    "question_en": "Is the parcel being returned?",
+    "answer_uz": "Tracking orqali oxirgi holatini tekshiring, agar uzoq vaqt harakat bo'lmasa 1165 ga murojaat qiling.",
+    "answer_ru": "Если в трекинге «возвращено» — посылка направляется обратно отправителю.",
+    "answer_en": "If tracking shows 'returned' — the parcel is heading back to the sender."
+  },
+  {
+    "id": 150,
+    "category": "status",
+    "question_uz": "Trackingda boshqa shahar chiqyapti nega",
+    "question_ru": "Скажите точно когда придёт посылка?",
+    "question_en": "Tell me exactly when the parcel will arrive?",
+    "answer_uz": "Jo'natma logistika sababli boshqa saralash markazlaridan o'tishi mumkin.",
+    "answer_ru": "Точно назвать сложно, но трекинг показывает примерный статус.",
+    "answer_en": "Exact time is difficult, but tracking shows the approximate status."
+  },
+  {
+    "id": 151,
+    "category": "pickup",
+    "question_uz": "Qabul qiluvchi topilmadi deb chiqdi endi nima bo'ladi",
+    "question_ru": "Где можно забрать посылку?",
+    "question_en": "Where can I pick up my parcel?",
+    "answer_uz": "Bu holatda qayta yetkazish yoki pochta bo'limidan olish talab qilinadi. Pasportingiz bilan bo'limga boring.",
+    "answer_ru": "В трекинге указано в каком почтовом отделении находится посылка. Возьмите паспорт.",
+    "answer_en": "Tracking shows which post office has the parcel. Bring your passport."
+  },
+  {
+    "id": 152,
+    "category": "status",
+    "question_uz": "Jo'natmam qaytib ketayaptimi",
+    "question_ru": "Почему посылка идёт так медленно?",
+    "question_en": "Why is the parcel coming so slowly?",
+    "answer_uz": "Agar trackingda 'qaytarildi' statusi bo'lsa, jo'natma jo'natuvchiga qaytmoqda.",
+    "answer_ru": "Скорость зависит от логистики и расстояния. Отдалённые районы (Сурхандарья, Хорезм, ККР) — 3-5 дней.",
+    "answer_en": "Speed depends on logistics and distance. Remote areas (Surkhandarya, Khorezm, KKR) — 3-5 days."
+  },
+  {
+    "id": 153,
+    "category": "eta",
+    "question_uz": "Jo'natmam qachon keladi aniq aytsa bo'ladimi",
+    "question_ru": "Посылка где-то застряла?",
+    "question_en": "Parcel seems to be stuck?",
+    "answer_uz": "Aniq vaqtni aytish qiyin, lekin tracking orqali taxminiy holatni ko'rish mumkin.",
+    "answer_ru": "Иногда посылка временно задерживается в сортировочном центре. 3+ дня — позвоните 1165.",
+    "answer_en": "Sometimes parcel temporarily stays at sorting center. 3+ days — call 1165."
+  },
+  {
+    "id": 154,
+    "category": "pickup",
+    "question_uz": "Jo'natmam qayerdan olib ketishim mumkin",
+    "question_ru": "«Вручение не состоялось» — что это значит?",
+    "question_en": "Delivery attempt failed — what does this mean?",
+    "answer_uz": "Tracking orqali qaysi pochta bo'limiga kelgani ko'rsatiladi. Pasportingiz bilan boring.",
+    "answer_ru": "Доставка не была осуществлена — получатель не был дома. Посылка вернётся в отделение, заберите с паспортом.",
+    "answer_en": "Delivery didn't happen — recipient wasn't home. Parcel returned to branch, collect with passport."
+  },
+  {
+    "id": 155,
+    "category": "delay",
+    "question_uz": "Jo'natmam juda sekin kelyapti nima sabab",
+    "question_ru": "«Обрабатывается» в трекинге — что это?",
+    "question_en": "Status 'Processing' in tracking — what is this?",
+    "answer_uz": "Yetkazish tezligi logistika va masofaga bog'liq bo'ladi. Uzoq viloyatlar (Surxondaryo, Xorazm, QQR) 3-5 kun.",
+    "answer_ru": "Посылка находится в процессе сортировки или переадресации. Переход к следующему статусу займёт 1-2 дня.",
+    "answer_en": "Parcel is in sorting or redirection process. Next status update in 1-2 days."
+  },
+  {
+    "id": 156,
+    "category": "delay",
+    "question_uz": "Jo'natmam qayerdadir to'xtab qolganga o'xshaydi",
+    "question_ru": "«Передано на доставку» — что это?",
+    "question_en": "Passed to delivery — what does this mean?",
+    "answer_uz": "Ba'zan jo'natma vaqtincha saralash markazida qolishi mumkin. 3+ kun bo'lsa 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Посылка передана курьеру для доставки. Ожидается доставка сегодня.",
+    "answer_en": "Parcel handed to courier for delivery. Expected delivery today."
+  },
+  {
+    "id": 157,
+    "category": "pickup",
+    "question_uz": "Jo'natmam statusida muvaffaqiyatsiz yetkazildi deb chiqdi bu nimani anglatadi",
+    "question_ru": "Что будет если не забрать посылку?",
+    "question_en": "What happens if I don't collect the parcel?",
+    "answer_uz": "Bu yetkazish amalga oshmaganini bildiradi — qabul qiluvchi uyda bo'lmagan. Jo'natma bo'limga qaytariladi, pasportingiz bilan oling.",
+    "answer_ru": "Посылка хранится 30 дней, затем возвращается отправителю.",
+    "answer_en": "Parcel stored 30 days, then returned to sender."
+  },
+  {
+    "id": 158,
+    "category": "status",
+    "question_uz": "Jo'natmam statusida qayta ishlanmoqda degani nima",
+    "question_ru": "«На таможне» в трекинге — что это?",
+    "question_en": "Status 'At customs' in tracking — what is this?",
+    "answer_uz": "Bu jo'natma saralash yoki qayta yo'naltirish jarayonida ekanligini bildiradi. 1-2 kun ichida keyingi statusga o'tadi.",
+    "answer_ru": "Посылка проходит таможенный контроль. Обычно 1-7 дней.",
+    "answer_en": "Parcel is undergoing customs inspection. Usually 1-7 days."
+  },
+  {
+    "id": 159,
+    "category": "status",
+    "question_uz": "Jo'natmam statusida yetkazishga chiqarildi degani nimani anglatadi",
+    "question_ru": "Сколько посылка пробудет на таможне?",
+    "question_en": "How long will parcel stay at customs?",
+    "answer_uz": "Bu jo'natma yetkazib berish uchun kuryerga berilganini bildiradi. Bugun yetkazilishi kutiladi.",
+    "answer_ru": "Таможня обычно 1-5 дней, иногда до 7. Лимит: $200, 31 кг (раз в месяц).",
+    "answer_en": "Customs usually 1-5 days, sometimes up to 7. Limit: $200, 31 kg (once per month)."
+  },
+  {
+    "id": 160,
+    "category": "pickup",
+    "question_uz": "Jo'natmamni qabul qilmasam nima bo'ladi",
+    "question_ru": "«Экспортировано» в трекинге — что это значит?",
+    "question_en": "Exported status in tracking — what does it mean?",
+    "answer_uz": "Jo'natma 30 kun pochta bo'limida saqlanadi. Keyin jo'natuvchiga qaytariladi.",
+    "answer_ru": "Посылка покинула страну отправления — нормальный этап международного отправления.",
+    "answer_en": "Parcel has left the sending country — normal stage of international shipment."
+  },
+  {
+    "id": 161,
+    "category": "customs",
+    "question_uz": "Jo'natmam statusida bojxonada deb chiqdi bu nimani anglatadi",
+    "question_ru": "«Импортировано» в трекинге — что это?",
+    "question_en": "Imported status in tracking — what is this?",
+    "answer_uz": "Bu jo'natma bojxona nazoratidan o'tayotganini bildiradi. Odatda 1-7 kun davom etadi.",
+    "answer_ru": "Посылка прибыла в страну назначения. Следующий этап — таможня или распределение.",
+    "answer_en": "Parcel has arrived in the destination country. Next stage — customs or distribution."
+  },
+  {
+    "id": 162,
+    "category": "customs",
+    "question_uz": "Jo'natmam bojxonada qancha turadi",
+    "question_ru": "«Вручено» в трекинге, но не получал — что делать?",
+    "question_en": "Tracking says delivered but I didn't receive — what to do?",
+    "answer_uz": "Bojxona tekshiruvi odatda 1-5 kun, ba'zan 7 kungacha. Limit: 200 USD, 31 kg (oyiga 1 marta).",
+    "answer_ru": "Срочно позвоните 1165 и обратитесь в отделение. Возможно получил сосед или курьер.",
+    "answer_en": "Call 1165 urgently and visit the branch. A neighbor or courier may have received it."
+  },
+  {
+    "id": 163,
+    "category": "status",
+    "question_uz": "Jo'natmam statusida eksport qilindi deb yozilgan bu nimani anglatadi",
+    "question_ru": "«Задерживается» в трекинге — что это?",
+    "question_en": "Tracking shows 'Delayed' — what does this mean?",
+    "answer_uz": "Bu jo'natma mamlakatdan chiqib ketganini bildiradi — xalqaro yo'nalishda normal bosqich.",
+    "answer_ru": "Это значит что в процессе доставки возникли непредвиденные задержки. Обратитесь в 1165.",
+    "answer_en": "This means unexpected delays occurred during delivery. Contact 1165."
+  },
+  {
+    "id": 164,
+    "category": "status",
+    "question_uz": "Jo'natmam import qilindi deb chiqyapti bu nimani anglatadi",
+    "question_ru": "Кто получил посылку можно проверить через трекинг?",
+    "question_en": "Can I check who received the parcel via tracking?",
+    "answer_uz": "Bu jo'natma manzil mamlakatiga yetib kelganini bildiradi. Keyingi bosqich — bojxona yoki tarqatish.",
+    "answer_ru": "В некоторых случаях имя получателя может отображаться.",
+    "answer_en": "In some cases the recipient's name may be shown."
+  },
+  {
+    "id": 165,
+    "category": "lost",
+    "question_uz": "Jo'natmam statusida yetkazib berildi deb chiqdi lekin hali qo'limga kelmadi",
+    "question_ru": "Посылка давно на сортировке — почему?",
+    "question_en": "Parcel at sorting for too long — why?",
+    "answer_uz": "Bu holatda darhol 1165 ga qo'ng'iroq qiling va bo'limga murojaat qiling. Kuryer yoki qo'shni olgan bo'lishi mumkin.",
+    "answer_ru": "Причина — высокая загрузка или логистика. 3+ дней — позвоните 1165.",
+    "answer_en": "High volume or logistics. 3+ days — call 1165."
+  },
+  {
+    "id": 166,
+    "category": "delay",
+    "question_uz": "Jo'natmam trackingda kechikmoqda deb chiqyapti bu nimani anglatadi",
+    "question_ru": "Статус долго не меняется — что делать?",
+    "question_en": "Status unchanged for long — what to do?",
+    "answer_uz": "Bu yetkazish jarayonida kutilmagan kechikishlar borligini bildiradi. 1165 ga murojaat qiling.",
+    "answer_ru": "3+ дня без изменений (внутренние) или 7+ дней (международные) — позвоните 1165.",
+    "answer_en": "3+ days unchanged (domestic) or 7+ days (international) — call 1165."
+  },
+  {
+    "id": 167,
+    "category": "pickup",
+    "question_uz": "Jo'natmamni tracking orqali kim qabul qilganini tekshirish mumkinmi",
+    "question_ru": "Посылка ещё не введена в систему — что делать?",
+    "question_en": "Parcel not yet in system — what to do?",
+    "answer_uz": "Ba'zi hollarda qabul qilgan shaxs ismi ko'rsatilishi mumkin.",
+    "answer_ru": "Подождите 24-48 часов. Если нет — свяжитесь с отправителем.",
+    "answer_en": "Wait 24-48 hours. If still missing — contact the sender."
+  },
+  {
+    "id": 168,
+    "category": "delay",
+    "question_uz": "Jo'natmam hali saralash markazidan chiqmayapti sababi nima",
+    "question_ru": "Почему посылка задержалась?",
+    "question_en": "Why was the parcel delayed?",
+    "answer_uz": "Yuklama ko'pligi yoki logistika jarayoni sabab bo'lishi mumkin. 3+ kun bo'lsa 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Причины: нагрузка, праздники, погода или таможня.",
+    "answer_en": "Reasons: volume, holidays, weather or customs."
+  },
+  {
+    "id": 169,
+    "category": "delay",
+    "question_uz": "Jo'natmam statusi uzoq vaqt o'zgarmasa nima qilish kerak",
+    "question_ru": "Посылка очень долго в пути — это нормально?",
+    "question_en": "Parcel in transit for very long — is that normal?",
+    "answer_uz": "Agar 3 kundan ko'p o'zgarmasa (ichki) yoki 7 kundan ko'p (xalqaro) — 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Иногда из-за расстояния или нагрузки доставка затягивается. 7+ дней — обратитесь в 1165.",
+    "answer_en": "Sometimes delivery extends due to distance or volume. 7+ days — contact 1165."
+  },
+  {
+    "id": 170,
+    "category": "status",
+    "question_uz": "Jo'natmam hali tizimda chiqmagan bo'lsa nima qilish kerak",
+    "question_ru": "Неверный индекс вызвал задержку?",
+    "question_en": "Wrong postal code caused delay?",
+    "answer_uz": "24-48 soat kuting. Jo'natma yangi bo'lsa tizimga kechroq tushishi mumkin. Keyin ham yo'q bo'lsa jo'natuvchi bilan bog'laning.",
+    "answer_ru": "Да, неверный индекс может задержать посылку. Обратитесь в 1165.",
+    "answer_en": "Yes, wrong postal code can delay parcel. Contact 1165."
+  },
+  {
+    "id": 171,
+    "category": "delay",
+    "question_uz": "Jo'natmam nega kutilgan vaqtdan kechikdi",
+    "question_ru": "«Не принято» в трекинге — это нормально?",
+    "question_en": "Parcel shows 'Not accepted' in tracking — is that normal?",
+    "answer_uz": "Bu logistika, yuklama ko'pligi, bayram kunlari yoki bojxona sababli bo'lishi mumkin.",
+    "answer_ru": "Да, иногда данные вводятся с задержкой. Подождите 24-48 часов.",
+    "answer_en": "Yes, sometimes data entry is delayed. Wait 24-48 hours."
+  },
+  {
+    "id": 172,
+    "category": "delay",
+    "question_uz": "Jo'natmam hali yo'lda lekin juda uzoq vaqt bo'ldi bu normalmi",
+    "question_ru": "«Вручено» в трекинге, но я не получал — что делать?",
+    "question_en": "Tracking says delivered but I didn't receive — what to do?",
+    "answer_uz": "Ba'zan uzoq masofa yoki yuklama sababli yetkazish vaqti cho'zilishi mumkin. 7+ kun bo'lsa 1165 ga murojaat qiling.",
+    "answer_ru": "Срочно позвоните 1165 и обратитесь в почтовое отделение.",
+    "answer_en": "Urgently call 1165 and contact the post office."
+  },
+  {
+    "id": 173,
+    "category": "delay",
+    "question_uz": "Jo'natmam noto'g'ri indeks tufayli kechikishi mumkinmi",
+    "question_ru": "«Сортируется» в трекинге — что это?",
+    "question_en": "Status 'Sorting' in tracking — what is this?",
+    "answer_uz": "Ha, noto'g'ri indeks jo'natma kechikishiga sabab bo'lishi mumkin. 1165 ga qo'ng'iroq qiling.",
+    "answer_ru": "Посылка обрабатывается в сортировочном центре. Обновление через 1-2 дня.",
+    "answer_en": "Parcel is being processed at sorting center. Update in 1-2 days."
+  },
+  {
+    "id": 174,
+    "category": "status",
+    "question_uz": "Jo'natmam hali qabul qilinmagan deb chiqyapti bu normalmi",
+    "question_ru": "Как узнать что посылка прибыла в мой район?",
+    "question_en": "How do I know parcel arrived in my area?",
+    "answer_uz": "Ha, ba'zan tizimga kechikib kiritilishi mumkin. 24-48 soat kuting.",
+    "answer_ru": "В трекинге появится статус «Прибыло в отделение» или «В отделении».",
+    "answer_en": "Tracking will show 'Arrived at branch' or 'At branch' status."
+  },
+  {
+    "id": 175,
+    "category": "lost",
+    "question_uz": "Jo'natmam statusida topshirildi deb chiqdi lekin men olmadim",
+    "question_ru": "Посылка ещё не забрана — сколько будет храниться?",
+    "question_en": "Parcel not yet collected — how long will it be stored?",
+    "answer_uz": "Darhol 1165 ga qo'ng'iroq qiling va pochta bo'limiga murojaat qiling. Kuryer yoki qo'shni olgan bo'lishi mumkin.",
+    "answer_ru": "Посылки хранятся 30 дней. Bir Qadam — 14 дней (5 бесплатно).",
+    "answer_en": "Parcels stored 30 days. Bir Qadam — 14 days (5 free)."
+  },
+  {
+    "id": 176,
+    "category": "status",
+    "question_uz": "Jo'natmam hali saralanmoqda deb chiqyapti bu nimani bildiradi",
+    "question_ru": "В трекинге неверная информация — как быть?",
+    "question_en": "Wrong info in tracking — what to do?",
+    "answer_uz": "Bu jo'natma saralash markazida qayta ishlanayotganini anglatadi. 1-2 kun ichida keyingi statusga o'tadi.",
+    "answer_ru": "В редких случаях возможна техническая ошибка. Позвоните 1165 для уточнения.",
+    "answer_en": "Rare technical errors can occur. Call 1165 to clarify."
+  }
+]
