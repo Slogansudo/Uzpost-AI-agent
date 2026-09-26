@@ -119,7 +119,6 @@ def _init_llm_clients() -> None:
     print("[LLM] FAQ + Offtopic LLM tayyor ✓")
 
 
-# ─── AGENTS ────────────────────────────────────────────────────────────────────
 
 _AGENTS: dict = {}
 
@@ -136,7 +135,6 @@ def _get_agents() -> dict:
     return _AGENTS
 
 
-# ─── STARTUP / SHUTDOWN ────────────────────────────────────────────────────────
 
 @app.on_event("startup")
 async def startup():
@@ -160,7 +158,6 @@ async def shutdown():
     print("[Shutdown] Barcha resurslar yopildi ✓")
 
 
-# ─── SCHEMAS ───────────────────────────────────────────────────────────────────
 
 class QueryRequest(BaseModel):
     query:      str
@@ -188,8 +185,6 @@ class HistoryResponse(BaseModel):
     user_key: str
 
 
-# ─── HELPERS ───────────────────────────────────────────────────────────────────
-
 def _user_key(req: Request, browser_id: Optional[str]) -> str:
     client_ip = req.client.host if req.client else "unknown"
     ua        = req.headers.get("user-agent", "")
@@ -214,15 +209,7 @@ def _clear_conv_state(user_key: str) -> None:
     _CONV_STATE.pop(user_key, None)
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
-# HISTORY MANAGEMENT (v5.0 — bot javobi ham saqlanadi)
-# ═══════════════════════════════════════════════════════════════════════════════
-
 def _history_push(user_key: str, query: str, answer: str = "") -> None:
-    """
-    In-memory history. Endi bot javobi ham saqlanadi.
-    Bot javobi tozalanadi (hook, link, telefon olib tashlanadi) — multi-turn LLM uchun.
-    """
     if user_key not in _CHAT_HISTORY:
         _CHAT_HISTORY[user_key] = []
     _CHAT_HISTORY[user_key].append({"role": "user", "content": query})
@@ -245,11 +232,6 @@ _LATLON_STRIP_RE = re.compile(r"\(?\s*-?\d{1,3}\.\d{3,8}\s*,\s*-?\d{1,3}\.\d{3,8
 
 
 def _build_context(history: list[dict], current: str) -> str:
-    """
-    LEGACY: Eski string-based context.
-    v5.0 da intent classifier history'ni alohida messages format'da oladi.
-    Bu funksiya qoldirildi (backward compat uchun, lekin endi ishlatilmaydi).
-    """
     if not history:
         return current
     lines = ["=== OLDINGI SAVOLLAR ==="]
@@ -276,13 +258,8 @@ async def _save(user_key: str, query: str, answer: str, intent: str | None = Non
     await add_message(user_key, "assistant", answer)
 
 
-# ─── RESUME HINT APPENDER ──────────────────────────────────────────────────────
-
 def _ends_with_question(text: str) -> bool:
-    """
-    Javob allaqachon savol/taklif bilan tugaganmi?
-    True bo'lsa — yana hint/hook qo'shilmaydi (stacking oldini olish).
-    """
+
     if not text:
         return False
     if "💬" in text:           # allaqachon bir hook bor
@@ -296,11 +273,7 @@ def _ends_with_question(text: str) -> bool:
 
 
 def _append_hint(answer: str, resume: ResumeResult) -> str:
-    """
-    Javob oxiriga paused sessiya haqida taklif qo'shadi.
-    MUHIM: javob allaqachon savol bilan tugagan bo'lsa — qo'shilmaydi
-    (bitta javobda faqat bitta follow-up bo'lishi uchun).
-    """
+
     if not resume.resume_hint:
         return answer
     if _ends_with_question(answer):
@@ -308,7 +281,6 @@ def _append_hint(answer: str, resume: ResumeResult) -> str:
     return f"{answer}\n\n💬 {resume.resume_hint}"
 
 
-# ─── PRICE EXIT DETECTION ──────────────────────────────────────────────────────
 
 _PRICE_EXIT_RE = re.compile(
     r"\b(bekor|yangi\s+so'rov|boshqa\s+savol|to'xtat|stop|cancel|ortga|back|"
